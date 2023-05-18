@@ -1,0 +1,719 @@
+Column1.country,Column1.square.southwest.lng,Column1.square.southwest.lat,Column1.square.northeast.lng,Column1.square.northeast.lat,Column1.nearestPlace,Column1.coordinates.lng,Column1.coordinates.lat,Column1.words,Column1.language,Column1.map
+ZZ,-46.632797,49.180331,-46.632756,49.180358,,-46.632776,49.180344,cannonball.chest.chickens,en,https://w3w.co/cannonball.chest.chickens
+ZZ,0.932422,60.5625,0.932477,60.562527,"Houbie, Shetland Islands",0.932449,60.562513,cannonball.chest.diet,en,https://w3w.co/cannonball.chest.diet
+ZZ,-66.440706,38.13287,-66.440672,38.132897,,-66.440689,38.132883,cannonball.chest.misfits,en,https://w3w.co/cannonball.chest.misfits
+ZZ,142.076687,74.217335,142.076786,74.217362,"New Siberian Islands, Republic of Sakha (Yakutia)",142.076736,74.217349,cannonball.chest.parrot,en,https://w3w.co/cannonball.chest.parrot
+ZZ,-22.756365,34.739246,-22.756332,34.739273,,-22.756348,34.73926,cannonball.chest.rowboat,en,https://w3w.co/cannonball.chest.rowboat
+ZZ,133.119692,41.699062,133.119728,41.699089,"Vrangel’, Primorsky Krai",133.11971,41.699076,cannonball.chest.shady,en,https://w3w.co/cannonball.chest.shady
+ZZ,-162.888689,50.920413,-162.888646,50.92044,,-162.888668,50.920426,cannonball.chest.skulls,en,https://w3w.co/cannonball.chest.skulls
+ZZ,-8.606064,50.285872,-8.606022,50.285899,"Skibbereen, Munster",-8.606043,50.285886,cannonball.chest.turkey,en,https://w3w.co/cannonball.chest.turkey
+ZZ,-41.469409,59.228601,-41.469357,59.228628,"Nanortalik, Kujalleq",-41.469383,59.228614,cannonball.chickens.chest,en,https://w3w.co/cannonball.chickens.chest
+ZZ,-43.044326,45.600232,-43.044288,45.600259,,-43.044307,45.600245,cannonball.chickens.diet,en,https://w3w.co/cannonball.chickens.diet
+ZZ,-11.391773,62.736524,-11.391714,62.736551,"S??rv??gur, V??gar",-11.391743,62.736538,cannonball.chickens.misfits,en,https://w3w.co/cannonball.chickens.misfits
+ZZ,-5.391191,53.005067,-5.391146,53.005094,"Wicklow, Leinster",-5.391169,53.00508,cannonball.chickens.parrot,en,https://w3w.co/cannonball.chickens.parrot
+ZZ,-49.008679,23.164672,-49.00865,23.164699,,-49.008665,23.164686,cannonball.chickens.rowboat,en,https://w3w.co/cannonball.chickens.rowboat
+ZZ,-75.257999,73.13605,-75.257906,73.136077,"Pond Inlet, Nunavut",-75.257952,73.136063,cannonball.chickens.shady,en,https://w3w.co/cannonball.chickens.shady
+ZZ,-39.377792,39.416478,-39.377757,39.416505,,-39.377774,39.416491,cannonball.chickens.skulls,en,https://w3w.co/cannonball.chickens.skulls
+ZZ,-33.973841,38.990271,-33.973807,38.990298,"Lajes das Flores, Azores",-33.973824,38.990284,cannonball.chickens.turkey,en,https://w3w.co/cannonball.chickens.turkey
+ZZ,-35.162943,62.834681,-35.162884,62.834708,,-35.162914,62.834694,cannonball.diet.chest,en,https://w3w.co/cannonball.diet.chest
+ZZ,-53.984125,39.699143,-53.98409,39.69917,,-53.984108,39.699156,cannonball.diet.chickens,en,https://w3w.co/cannonball.diet.chickens
+ZZ,-65.801591,68.300938,-65.801518,68.300965,"Pangnirtung, Nunavut",-65.801554,68.300951,cannonball.diet.misfits,en,https://w3w.co/cannonball.diet.misfits
+ZZ,12.425286,55.527814,12.425333,55.527841,"Greve, Zealand",12.42531,55.527827,cannonball.diet.parrot,en,https://w3w.co/cannonball.diet.parrot
+ZZ,-35.049436,27.340179,-35.049405,27.340206,,-35.04942,27.340192,cannonball.diet.rowboat,en,https://w3w.co/cannonball.diet.rowboat
+ZZ,172.774,75.950464,172.774111,75.950491,,172.774056,75.950477,cannonball.diet.shady,en,https://w3w.co/cannonball.diet.shady
+ZZ,-150.282221,40.855892,-150.282186,40.855918,,-150.282203,40.855905,cannonball.diet.skulls,en,https://w3w.co/cannonball.diet.skulls
+ZZ,-174.343139,40.388017,-174.343104,40.388044,,-174.343122,40.388031,cannonball.diet.turkey,en,https://w3w.co/cannonball.diet.turkey
+ZZ,63.105788,71.081555,63.105872,71.081582,"Amderma, Nenets Autonomous Okrug",63.10583,71.081568,cannonball.misfits.chest,en,https://w3w.co/cannonball.misfits.chest
+ZZ,157.408574,42.27935,157.40861,42.279377,,157.408592,42.279363,cannonball.misfits.chickens,en,https://w3w.co/cannonball.misfits.chickens
+ZZ,146.307868,51.286519,146.307911,51.286546,"Nogliki, Sakhalin Oblast",146.30789,51.286532,cannonball.misfits.diet,en,https://w3w.co/cannonball.misfits.diet
+ZZ,-141.080502,59.691354,-141.080449,59.691381,"Haines Junction, Yukon",-141.080475,59.691368,cannonball.misfits.parrot,en,https://w3w.co/cannonball.misfits.parrot
+ZZ,52.972034,25.119906,52.972063,25.119933,"Ruwais, Abu Dhabi",52.972048,25.11992,cannonball.misfits.rowboat,en,https://w3w.co/cannonball.misfits.rowboat
+ZZ,121.948643,81.989004,121.948837,81.989031,,121.94874,81.989017,cannonball.misfits.shady,en,https://w3w.co/cannonball.misfits.shady
+ZZ,-152.290214,43.602765,-152.290177,43.602792,,-152.290196,43.602779,cannonball.misfits.skulls,en,https://w3w.co/cannonball.misfits.skulls
+ZZ,157.69245,43.093224,157.692487,43.093251,,157.692468,43.093238,cannonball.misfits.turkey,en,https://w3w.co/cannonball.misfits.turkey
+ZZ,-5.929733,50.704075,-5.92969,50.704102,"St Ives, Cornwall",-5.929711,50.704089,cannonball.parrot.chest,en,https://w3w.co/cannonball.parrot.chest
+ZZ,-103.755576,74.551127,-103.755474,74.551154,"Resolute, Nunavut",-103.755525,74.55114,cannonball.parrot.chickens,en,https://w3w.co/cannonball.parrot.chickens
+ZZ,166.867833,39.867373,166.867868,39.8674,,166.867851,39.867386,cannonball.parrot.diet,en,https://w3w.co/cannonball.parrot.diet
+ZZ,164.843256,53.086999,164.843301,53.087026,,164.843279,53.087012,cannonball.parrot.misfits,en,https://w3w.co/cannonball.parrot.misfits
+ZZ,-72.199679,34.704479,-72.199646,34.704506,,-72.199662,34.704493,cannonball.parrot.rowboat,en,https://w3w.co/cannonball.parrot.rowboat
+ZZ,3.669872,59.111524,3.669924,59.111551,"??krehamn, Rogaland",3.669898,59.111538,cannonball.parrot.shady,en,https://w3w.co/cannonball.parrot.shady
+ZZ,-153.883333,76.916208,-153.883214,76.916235,,-153.883274,76.916222,cannonball.parrot.skulls,en,https://w3w.co/cannonball.parrot.skulls
+ZZ,88.685769,76.031668,88.68588,76.031695,,88.685824,76.031681,cannonball.parrot.turkey,en,https://w3w.co/cannonball.parrot.turkey
+ZZ,143.298272,22.093952,143.298301,22.093979,,143.298286,22.093966,cannonball.rowboat.chest,en,https://w3w.co/cannonball.rowboat.chest
+ZZ,-22.770505,34.898798,-22.770472,34.898825,,-22.770488,34.898811,cannonball.rowboat.chickens,en,https://w3w.co/cannonball.rowboat.chickens
+ZZ,-81.700714,16.444885,-81.700686,16.444912,"Iralaya, Gracias a Dios",-81.7007,16.444898,cannonball.rowboat.diet,en,https://w3w.co/cannonball.rowboat.diet
+ZZ,136.687179,14.724612,136.687207,14.724639,,136.687193,14.724625,cannonball.rowboat.misfits,en,https://w3w.co/cannonball.rowboat.misfits
+ZZ,-67.10923,22.059185,-67.1092,22.059212,,-67.109215,22.059198,cannonball.rowboat.parrot,en,https://w3w.co/cannonball.rowboat.parrot
+ZZ,-21.740333,33.246442,-21.7403,33.246469,,-21.740316,33.246456,cannonball.rowboat.shady,en,https://w3w.co/cannonball.rowboat.shady
+ZZ,-88.568396,23.480191,-88.568366,23.480218,"R??o Lagartos, Yucat??n",-88.568381,23.480204,cannonball.rowboat.skulls,en,https://w3w.co/cannonball.rowboat.skulls
+ZZ,155.867733,27.054738,155.867763,27.054765,,155.867748,27.054752,cannonball.rowboat.turkey,en,https://w3w.co/cannonball.rowboat.turkey
+ZZ,-12.709772,55.769782,-12.709724,55.769809,"Belmullet, Connaught",-12.709748,55.769796,cannonball.shady.chest,en,https://w3w.co/cannonball.shady.chest
+ZZ,155.827987,81.575167,155.828171,81.575194,,155.828079,81.575181,cannonball.shady.chickens,en,https://w3w.co/cannonball.shady.chickens
+ZZ,-54.331156,43.05808,-54.331119,43.058107,,-54.331137,43.058093,cannonball.shady.diet,en,https://w3w.co/cannonball.shady.diet
+ZZ,151.366769,58.152706,151.36682,58.152733,"Ola, Magadan Oblast",151.366794,58.152719,cannonball.shady.misfits,en,https://w3w.co/cannonball.shady.misfits
+ZZ,141.60925,49.671248,141.609292,49.671275,"Boshnyakovo, Sakhalin Oblast",141.609271,49.671262,cannonball.shady.parrot,en,https://w3w.co/cannonball.shady.parrot
+ZZ,-26.117247,21.762317,-26.117218,21.762344,,-26.117233,21.76233,cannonball.shady.rowboat,en,https://w3w.co/cannonball.shady.rowboat
+ZZ,-73.334387,37.499326,-73.334353,37.499353,"Ocean City, Maryland",-73.33437,37.49934,cannonball.shady.skulls,en,https://w3w.co/cannonball.shady.skulls
+ZZ,-65.302548,84.139042,-65.302282,84.139069,"Alert, Nunavut",-65.302415,84.139055,cannonball.shady.turkey,en,https://w3w.co/cannonball.shady.turkey
+ZZ,-29.13425,48.81188,-29.134209,48.811907,,-29.13423,48.811894,cannonball.skulls.chest,en,https://w3w.co/cannonball.skulls.chest
+ZZ,154.824557,72.283932,154.824645,72.283959,,154.824601,72.283945,cannonball.skulls.chickens,en,https://w3w.co/cannonball.skulls.chickens
+ZZ,-15.005765,38.641845,-15.00573,38.641871,,-15.005748,38.641858,cannonball.skulls.diet,en,https://w3w.co/cannonball.skulls.diet
+ZZ,-171.155501,50.944804,-171.155459,50.944831,,-171.15548,50.944817,cannonball.skulls.misfits,en,https://w3w.co/cannonball.skulls.misfits
+ZZ,138.070317,43.880013,138.070355,43.88004,"Plastun, Primorsky Krai",138.070336,43.880026,cannonball.skulls.parrot,en,https://w3w.co/cannonball.skulls.parrot
+ZZ,-37.028493,36.458818,-37.028459,36.458845,,-37.028476,36.458832,cannonball.skulls.rowboat,en,https://w3w.co/cannonball.skulls.rowboat
+ZZ,-177.02758,56.927663,-177.027531,56.92769,,-177.027555,56.927676,cannonball.skulls.shady,en,https://w3w.co/cannonball.skulls.shady
+GL,-48.056992,73.639473,-48.056897,73.6395,"Upernavik, Avannaata",-48.056944,73.639486,cannonball.skulls.turkey,en,https://w3w.co/cannonball.skulls.turkey
+ZZ,173.067931,70.57417,173.068012,70.574197,"Pevek, Chukotka Autonomous Okrug",173.067972,70.574183,cannonball.turkey.chest,en,https://w3w.co/cannonball.turkey.chest
+ZZ,175.236898,42.021965,175.236934,42.021992,,175.236916,42.021979,cannonball.turkey.chickens,en,https://w3w.co/cannonball.turkey.chickens
+ZZ,-13.703077,50.904134,-13.703034,50.904161,"Cahersiveen, Munster",-13.703056,50.904148,cannonball.turkey.diet,en,https://w3w.co/cannonball.turkey.diet
+ZZ,-69.885488,73.415427,-69.885393,73.415454,"Pond Inlet, Nunavut",-69.88544,73.41544,cannonball.turkey.misfits,en,https://w3w.co/cannonball.turkey.misfits
+ZZ,20.443599,59.267303,20.443652,59.26733,"K??kar, ??lands sk??rg??rd",20.443626,59.267316,cannonball.turkey.parrot,en,https://w3w.co/cannonball.turkey.parrot
+ZZ,-137.34103,16.987279,-137.341001,16.987306,,-137.341015,16.987292,cannonball.turkey.rowboat,en,https://w3w.co/cannonball.turkey.rowboat
+GL,-31.662782,81.189953,-31.662606,81.18998,Northeast Greenland National Park,-31.662694,81.189966,cannonball.turkey.shady,en,https://w3w.co/cannonball.turkey.shady
+ZZ,156.745626,43.345381,156.745663,43.345408,,156.745644,43.345394,cannonball.turkey.skulls,en,https://w3w.co/cannonball.turkey.skulls
+ZZ,173.858943,42.788513,173.85898,42.78854,,173.858962,42.788527,chest.cannonball.chickens,en,https://w3w.co/chest.cannonball.chickens
+ZZ,-160.311406,51.962349,-160.311362,51.962376,,-160.311384,51.962363,chest.cannonball.diet,en,https://w3w.co/chest.cannonball.diet
+ZZ,67.399492,74.598642,67.399593,74.598669,"Belushya Guba, Arkhangelsk Oblast",67.399543,74.598655,chest.cannonball.misfits,en,https://w3w.co/chest.cannonball.misfits
+ZZ,-87.939319,60.700517,-87.939264,60.700544,,-87.939291,60.700531,chest.cannonball.parrot,en,https://w3w.co/chest.cannonball.parrot
+ZZ,-31.496447,26.389581,-31.496417,26.389608,,-31.496432,26.389594,chest.cannonball.rowboat,en,https://w3w.co/chest.cannonball.rowboat
+ZZ,-114.275862,83.539834,-114.275623,83.539861,,-114.275742,83.539847,chest.cannonball.shady,en,https://w3w.co/chest.cannonball.shady
+ZZ,-51.740344,44.153595,-51.740307,44.153622,,-51.740325,44.153609,chest.cannonball.skulls,en,https://w3w.co/chest.cannonball.skulls
+ZZ,-153.364015,43.602388,-153.363978,43.602415,,-153.363997,43.602401,chest.cannonball.turkey,en,https://w3w.co/chest.cannonball.turkey
+ZZ,-168.930312,51.048081,-168.930269,51.048108,,-168.930291,51.048095,chest.chickens.cannonball,en,https://w3w.co/chest.chickens.cannonball
+TW,121.41202,25.111012,121.41205,25.111039,"Banqiao, Taipei",121.412035,25.111026,chest.chickens.diet,en,https://w3w.co/chest.chickens.diet
+RU,53.798163,56.467092,53.798212,56.467119,"Sarapul, Udmurt Republic",53.798188,56.467106,chest.chickens.misfits,en,https://w3w.co/chest.chickens.misfits
+CN,118.363566,39.722052,118.363601,39.722078,"Guye, Hebei",118.363584,39.722065,chest.chickens.parrot,en,https://w3w.co/chest.chickens.parrot
+ZZ,-123.872447,26.160953,-123.872416,26.16098,,-123.872432,26.160966,chest.chickens.rowboat,en,https://w3w.co/chest.chickens.rowboat
+FR,2.179282,48.973938,2.179323,48.973965,"La Frette-sur-Seine, Val d'Oise",2.179302,48.973952,chest.chickens.shady,en,https://w3w.co/chest.chickens.shady
+CA,-77.898218,46.871362,-77.898179,46.871389,"Mattawa, Ontario",-77.898199,46.871375,chest.chickens.skulls,en,https://w3w.co/chest.chickens.skulls
+BR,-51.37953,-20.888152,-51.379501,-20.888125,"Andradina, S??o Paulo",-51.379516,-20.888139,chest.chickens.turkey,en,https://w3w.co/chest.chickens.turkey
+GL,-47.12568,64.138583,-47.125618,64.13861,"Nuuk, Sermersooq",-47.125649,64.138597,chest.diet.cannonball,en,https://w3w.co/chest.diet.cannonball
+CN,119.218733,36.780994,119.218767,36.781021,"Hanting, Shandong",119.21875,36.781007,chest.diet.chickens,en,https://w3w.co/chest.diet.chickens
+RU,20.100177,54.667826,20.100224,54.667853,"Svetlyy, Kaliningrad Oblast",20.100201,54.667839,chest.diet.misfits,en,https://w3w.co/chest.diet.misfits
+CN,115.464065,38.214451,115.464099,38.214478,"Xinji, Hebei",115.464082,38.214465,chest.diet.parrot,en,https://w3w.co/chest.diet.parrot
+ZZ,122.265154,30.753126,122.265186,30.753153,"Zhoushan, Zhejiang",122.26517,30.75314,chest.diet.rowboat,en,https://w3w.co/chest.diet.rowboat
+DK,9.465762,55.508005,9.46581,55.508031,"Kolding, South Denmark",9.465786,55.508018,chest.diet.shady,en,https://w3w.co/chest.diet.shady
+AU,139.691219,-31.20324,139.691251,-31.203213,"Broken Hill, New South Wales",139.691235,-31.203226,chest.diet.skulls,en,https://w3w.co/chest.diet.skulls
+BR,-49.212744,-25.270752,-49.212715,-25.270726,"Colombo, Paran??",-49.212729,-25.270739,chest.diet.turkey,en,https://w3w.co/chest.diet.turkey
+ZZ,-46.433319,39.292287,-46.433285,39.292313,,-46.433302,39.2923,chest.misfits.cannonball,en,https://w3w.co/chest.misfits.cannonball
+FI,26.911356,60.460705,26.91141,60.460732,"Kotka, Kymenlaakso",26.911383,60.460719,chest.misfits.chickens,en,https://w3w.co/chest.misfits.chickens
+CN,124.652249,44.383786,124.652287,44.383813,"Changling, Jilin",124.652268,44.3838,chest.misfits.diet,en,https://w3w.co/chest.misfits.diet
+FR,2.934184,42.652814,2.93422,42.652841,"Saleilles, Pyr??n??es-Orientales",2.934202,42.652827,chest.misfits.parrot,en,https://w3w.co/chest.misfits.parrot
+ZZ,-156.550116,28.282854,-156.550086,28.282881,,-156.550101,28.282867,chest.misfits.rowboat,en,https://w3w.co/chest.misfits.rowboat
+CL,-71.466371,-33.001024,-71.466339,-33.000997,"Quilpu??, Valpara??so",-71.466355,-33.001011,chest.misfits.shady,en,https://w3w.co/chest.misfits.shady
+AU,139.970032,-32.737171,139.970064,-32.737144,"Peterborough, South Australia",139.970048,-32.737158,chest.misfits.skulls,en,https://w3w.co/chest.misfits.skulls
+IR,52.580479,29.636886,52.58051,29.636912,"Shiraz, Fars",52.580495,29.636899,chest.misfits.turkey,en,https://w3w.co/chest.misfits.turkey
+ZZ,-6.836251,76.626752,-6.836134,76.626779,,-6.836193,76.626765,chest.parrot.cannonball,en,https://w3w.co/chest.parrot.cannonball
+BR,-52.793381,-28.326003,-52.79335,-28.325976,"Carazinho, Rio Grande do Sul",-52.793366,-28.325989,chest.parrot.chickens,en,https://w3w.co/chest.parrot.chickens
+IT,12.749363,43.961136,12.7494,43.961163,"Gabicce Mare, The Marches",12.749382,43.96115,chest.parrot.diet,en,https://w3w.co/chest.parrot.diet
+BR,-42.337613,-21.151493,-42.337584,-21.151466,"Muria??, Minas Gerais",-42.337598,-21.15148,chest.parrot.misfits,en,https://w3w.co/chest.parrot.misfits
+ZZ,-107.092673,15.404673,-107.092645,15.4047,,-107.092659,15.404687,chest.parrot.rowboat,en,https://w3w.co/chest.parrot.rowboat
+IR,59.468642,36.114597,59.468675,36.114624,"Mashhad, Razavi Khorasan",59.468658,36.11461,chest.parrot.shady,en,https://w3w.co/chest.parrot.shady
+CA,-69.579109,55.802717,-69.579061,55.802744,"Schefferville, Quebec",-69.579085,55.80273,chest.parrot.skulls,en,https://w3w.co/chest.parrot.skulls
+GR,22.97714,40.699898,22.977176,40.699925,"F??liro, Central Macedonia",22.977158,40.699911,chest.parrot.turkey,en,https://w3w.co/chest.parrot.turkey
+ZZ,168.912292,25.048566,168.912321,25.048593,,168.912307,25.04858,chest.rowboat.cannonball,en,https://w3w.co/chest.rowboat.cannonball
+ZZ,-108.385246,24.819939,-108.385216,24.819966,"Costa Azul, Sinaloa",-108.385231,24.819952,chest.rowboat.chickens,en,https://w3w.co/chest.rowboat.chickens
+ZZ,-48.125402,29.245445,-48.125371,29.245472,,-48.125386,29.245459,chest.rowboat.diet,en,https://w3w.co/chest.rowboat.diet
+ZZ,-129.901831,26.858506,-129.901801,26.858533,,-129.901816,26.858519,chest.rowboat.misfits,en,https://w3w.co/chest.rowboat.misfits
+ZZ,-173.531772,36.776412,-173.531738,36.776439,,-173.531755,36.776426,chest.rowboat.parrot,en,https://w3w.co/chest.rowboat.parrot
+ZZ,159.436031,23.417583,159.43606,23.41761,,159.436045,23.417596,chest.rowboat.shady,en,https://w3w.co/chest.rowboat.shady
+ZZ,-62.123545,15.526331,-62.123517,15.526358,"Petites Anses, Guadeloupe",-62.123531,15.526345,chest.rowboat.skulls,en,https://w3w.co/chest.rowboat.skulls
+ZZ,-129.795305,18.434212,-129.795276,18.434239,,-129.79529,18.434225,chest.rowboat.turkey,en,https://w3w.co/chest.rowboat.turkey
+ZZ,-160.557389,43.066812,-160.557352,43.066839,,-160.55737,43.066826,chest.shady.cannonball,en,https://w3w.co/chest.shady.cannonball
+CN,116.243766,40.02016,116.243801,40.020187,"Mentougou, Beijing",116.243783,40.020173,chest.shady.chickens,en,https://w3w.co/chest.shady.chickens
+UY,-58.253445,-33.984368,-58.253413,-33.984341,"Carmelo, Colonia",-58.253429,-33.984355,chest.shady.diet,en,https://w3w.co/chest.shady.diet
+MY,100.957305,4.778002,100.957332,4.778029,"Kuala Kangsar, Perak",100.957319,4.778016,chest.shady.misfits,en,https://w3w.co/chest.shady.misfits
+CN,130.35663,46.868289,130.35667,46.868316,"Jiamusi, Heilongjiang",130.35665,46.868303,chest.shady.parrot,en,https://w3w.co/chest.shady.parrot
+ZZ,170.953199,24.716931,170.953229,24.716958,,170.953214,24.716944,chest.shady.rowboat,en,https://w3w.co/chest.shady.rowboat
+CA,-116.306796,70.927501,-116.306713,70.927528,"Ulukhaktok, Northwest Territories",-116.306754,70.927515,chest.shady.skulls,en,https://w3w.co/chest.shady.skulls
+US,-84.228886,39.727684,-84.228851,39.727711,"Moraine, Ohio",-84.228869,39.727698,chest.shady.turkey,en,https://w3w.co/chest.shady.turkey
+ZZ,-130.16855,53.07983,-130.168506,53.079857,"Prince Rupert, British Columbia",-130.168528,53.079843,chest.skulls.cannonball,en,https://w3w.co/chest.skulls.cannonball
+NL,4.503165,51.579237,4.503208,51.579264,"Zegge, North Brabant",4.503187,51.57925,chest.skulls.chickens,en,https://w3w.co/chest.skulls.chickens
+CA,-104.277804,69.855218,-104.277726,69.855245,"Cambridge Bay, Nunavut",-104.277765,69.855231,chest.skulls.diet,en,https://w3w.co/chest.skulls.diet
+CA,-93.467206,67.654619,-93.467135,67.654646,"Gjoa Haven, Nunavut",-93.467171,67.654633,chest.skulls.misfits,en,https://w3w.co/chest.skulls.misfits
+CA,-87.045738,49.527841,-87.045696,49.527868,"Greenstone, Ontario",-87.045717,49.527854,chest.skulls.parrot,en,https://w3w.co/chest.skulls.parrot
+ZZ,174.327228,16.617346,174.327256,16.617373,,174.327242,16.617359,chest.skulls.rowboat,en,https://w3w.co/chest.skulls.rowboat
+CA,-122.723372,59.985958,-122.723318,59.985985,"Fort Nelson, British Columbia",-122.723345,59.985972,chest.skulls.shady,en,https://w3w.co/chest.skulls.shady
+CA,-104.896124,56.176477,-104.896076,56.176504,"La Ronge, Saskatchewan",-104.8961,56.17649,chest.skulls.turkey,en,https://w3w.co/chest.skulls.turkey
+ZZ,145.685891,52.320289,145.685935,52.320316,"Nogliki, Sakhalin Oblast",145.685913,52.320302,chest.turkey.cannonball,en,https://w3w.co/chest.turkey.cannonball
+JP,139.853105,35.647127,139.853138,35.647154,"Urayasu, Chiba",139.853122,35.64714,chest.turkey.chickens,en,https://w3w.co/chest.turkey.chickens
+PE,-76.896882,-12.221459,-76.896854,-12.221432,"Santiago de Surco, Lima region",-76.896868,-12.221445,chest.turkey.diet,en,https://w3w.co/chest.turkey.diet
+AE,55.40389,25.196636,55.403919,25.196663,Dubai,55.403905,25.19665,chest.turkey.misfits,en,https://w3w.co/chest.turkey.misfits
+IT,8.170267,44.036923,8.170305,44.03695,"San Fedele-Lusignano, Liguria",8.170286,44.036937,chest.turkey.parrot,en,https://w3w.co/chest.turkey.parrot
+ZZ,90.967977,19.60856,90.968006,19.608587,"Teknaf, Chattogram",90.967992,19.608573,chest.turkey.rowboat,en,https://w3w.co/chest.turkey.rowboat
+US,-87.918151,41.857455,-87.918115,41.857482,"Hillside, Illinois",-87.918133,41.857468,chest.turkey.shady,en,https://w3w.co/chest.turkey.shady
+CA,-110.851656,65.576353,-110.851591,65.57638,"Bathurst Lake, Nunavut",-110.851624,65.576366,chest.turkey.skulls,en,https://w3w.co/chest.turkey.skulls
+ZZ,166.505738,50.961783,166.505781,50.96181,,166.50576,50.961797,chickens.cannonball.chest,en,https://w3w.co/chickens.cannonball.chest
+ZZ,121.044379,40.000081,121.044414,40.000108,"Xingcheng, Liaoning",121.044396,40.000094,chickens.cannonball.diet,en,https://w3w.co/chickens.cannonball.diet
+ZZ,-138.262713,53.386373,-138.262667,53.3864,,-138.26269,53.386387,chickens.cannonball.misfits,en,https://w3w.co/chickens.cannonball.misfits
+ZZ,-29.896625,45.696583,-29.896586,45.69661,,-29.896606,45.696596,chickens.cannonball.parrot,en,https://w3w.co/chickens.cannonball.parrot
+ZZ,-35.125254,17.32735,-35.125226,17.327377,,-35.12524,17.327364,chickens.cannonball.rowboat,en,https://w3w.co/chickens.cannonball.rowboat
+ZZ,1.098866,59.452566,1.098919,59.452593,"Sumburgh, Shetland Islands",1.098892,59.452579,chickens.cannonball.shady,en,https://w3w.co/chickens.cannonball.shady
+ZZ,7.714828,77.25725,7.714951,77.257277,"Longyearbyen, Svalbard",7.71489,77.257263,chickens.cannonball.skulls,en,https://w3w.co/chickens.cannonball.skulls
+ZZ,-150.81044,76.372709,-150.810325,76.372736,,-150.810382,76.372723,chickens.cannonball.turkey,en,https://w3w.co/chickens.cannonball.turkey
+ZZ,-167.143552,44.374299,-167.143514,44.374326,,-167.143533,44.374313,chickens.chest.cannonball,en,https://w3w.co/chickens.chest.cannonball
+RU,47.230639,56.042475,47.230688,56.042502,"Novyye Lapsary, Chuvash Republic",47.230663,56.042489,chickens.chest.diet,en,https://w3w.co/chickens.chest.diet
+RU,42.096776,51.376509,42.096819,51.376536,"Borisoglebsk, Voronezh Oblast",42.096797,51.376523,chickens.chest.misfits,en,https://w3w.co/chickens.chest.misfits
+CN,120.396105,37.339802,120.396139,37.339829,"Luofeng, Shandong",120.396122,37.339815,chickens.chest.parrot,en,https://w3w.co/chickens.chest.parrot
+ZZ,-82.78661,27.048297,-82.786579,27.048324,"Venice, Florida",-82.786595,27.04831,chickens.chest.rowboat,en,https://w3w.co/chickens.chest.rowboat
+FI,25.691551,62.216688,25.691609,62.216715,"Jyv??skyl??, Central Finland",25.69158,62.216702,chickens.chest.shady,en,https://w3w.co/chickens.chest.shady
+CA,-82.771564,71.688228,-82.771478,71.688255,"Arctic Bay, Nunavut",-82.771521,71.688241,chickens.chest.skulls,en,https://w3w.co/chickens.chest.skulls
+VE,-66.542928,10.479598,-66.5429,10.479625,"Guatire, Miranda",-66.542914,10.479611,chickens.chest.turkey,en,https://w3w.co/chickens.chest.turkey
+ZZ,-69.934016,79.061853,-69.933874,79.06188,"Qaanaaq, Avannaata",-69.933945,79.061867,chickens.diet.cannonball,en,https://w3w.co/chickens.diet.cannonball
+NG,3.16683,6.68564,3.166857,6.685667,"Ifo, Ogun",3.166843,6.685654,chickens.diet.chest,en,https://w3w.co/chickens.diet.chest
+CN,122.414161,41.139931,122.414197,41.139958,"Panshan, Liaoning",122.414179,41.139944,chickens.diet.misfits,en,https://w3w.co/chickens.diet.misfits
+PT,-9.143069,38.675614,-9.143035,38.675641,"Almada, Set??bal",-9.143052,38.675628,chickens.diet.parrot,en,https://w3w.co/chickens.diet.parrot
+ZZ,-109.364158,20.732563,-109.364129,20.732589,"Cabo San Lucas, Baja California Sur",-109.364144,20.732576,chickens.diet.rowboat,en,https://w3w.co/chickens.diet.rowboat
+BR,-48.384951,-1.353223,-48.384924,-1.353196,"Ananindeua, Par??",-48.384938,-1.35321,chickens.diet.shady,en,https://w3w.co/chickens.diet.shady
+CA,-98.631553,52.461379,-98.631509,52.461406,"Dauphin, Manitoba",-98.631531,52.461392,chickens.diet.skulls,en,https://w3w.co/chickens.diet.skulls
+TH,100.502988,7.034686,100.503015,7.034713,"Hat Yai, Songkhla",100.503001,7.0347,chickens.diet.turkey,en,https://w3w.co/chickens.diet.turkey
+ZZ,178.98589,46.215556,178.985929,46.215583,,178.98591,46.21557,chickens.misfits.cannonball,en,https://w3w.co/chickens.misfits.cannonball
+RU,40.495495,64.499191,40.495558,64.499218,"Arkhangel’sk, Arkhangelsk Oblast",40.495527,64.499205,chickens.misfits.chest,en,https://w3w.co/chickens.misfits.chest
+TH,104.729068,16.621766,104.729096,16.621793,Savannakhet,104.729082,16.621779,chickens.misfits.diet,en,https://w3w.co/chickens.misfits.diet
+CA,-71.422512,46.947499,-71.422472,46.947526,"La Haute-Saint-Charles, Quebec",-71.422492,46.947512,chickens.misfits.parrot,en,https://w3w.co/chickens.misfits.parrot
+ZZ,-167.124402,18.803956,-167.124373,18.803983,,-167.124388,18.80397,chickens.misfits.rowboat,en,https://w3w.co/chickens.misfits.rowboat
+FR,3.292957,49.626994,3.292999,49.627021,"Tergnier, Aisne",3.292978,49.627008,chickens.misfits.shady,en,https://w3w.co/chickens.misfits.shady
+CA,-108.666407,51.469114,-108.666363,51.469141,"Kindersley, Saskatchewan",-108.666385,51.469127,chickens.misfits.skulls,en,https://w3w.co/chickens.misfits.skulls
+MX,-98.270562,19.056571,-98.270534,19.056598,"Santiago Momoxpan, Puebla",-98.270548,19.056584,chickens.misfits.turkey,en,https://w3w.co/chickens.misfits.turkey
+ZZ,-171.269492,40.234099,-171.269456,40.234126,,-171.269474,40.234112,chickens.parrot.cannonball,en,https://w3w.co/chickens.parrot.cannonball
+RU,142.701059,46.971593,142.701099,46.97162,"Yuzhno-Sakhalinsk, Sakhalin Oblast",142.701079,46.971607,chickens.parrot.chest,en,https://w3w.co/chickens.parrot.chest
+CA,-64.577074,44.365783,-64.577036,44.36581,"Bridgewater, Nova Scotia",-64.577055,44.365796,chickens.parrot.diet,en,https://w3w.co/chickens.parrot.diet
+CN,114.534014,30.342551,114.534045,30.342578,"Huangzhou, Hubei",114.53403,30.342564,chickens.parrot.misfits,en,https://w3w.co/chickens.parrot.misfits
+ZZ,-169.526931,27.01353,-169.5269,27.013556,,-169.526915,27.013543,chickens.parrot.rowboat,en,https://w3w.co/chickens.parrot.rowboat
+ZA,27.910663,-26.06727,27.910693,-26.067243,"Muldersdriseloop, Gauteng",27.910678,-26.067257,chickens.parrot.shady,en,https://w3w.co/chickens.parrot.shady
+CA,-105.863346,65.53342,-105.863281,65.533447,"Bathurst Lake, Nunavut",-105.863314,65.533433,chickens.parrot.skulls,en,https://w3w.co/chickens.parrot.skulls
+TR,36.844422,37.570639,36.844456,37.570666,Kahramanmara??,36.844439,37.570653,chickens.parrot.turkey,en,https://w3w.co/chickens.parrot.turkey
+ZZ,152.026171,27.249515,152.026201,27.249542,,152.026186,27.249528,chickens.rowboat.cannonball,en,https://w3w.co/chickens.rowboat.cannonball
+ZZ,148.885859,16.049375,148.885887,16.049402,,148.885873,16.049388,chickens.rowboat.chest,en,https://w3w.co/chickens.rowboat.chest
+ZZ,19.082003,31.696394,19.082034,31.696421,Benghazi,19.082018,31.696407,chickens.rowboat.diet,en,https://w3w.co/chickens.rowboat.diet
+ZZ,-48.785062,29.142788,-48.785031,29.142815,,-48.785046,29.142801,chickens.rowboat.misfits,en,https://w3w.co/chickens.rowboat.misfits
+ZZ,-71.018715,16.014608,-71.018687,16.014635,"Oviedo, Pedernales",-71.018701,16.014621,chickens.rowboat.parrot,en,https://w3w.co/chickens.rowboat.parrot
+ZZ,-89.746057,25.493532,-89.746027,25.493559,,-89.746042,25.493545,chickens.rowboat.shady,en,https://w3w.co/chickens.rowboat.shady
+ZZ,-26.358486,17.22728,-26.358458,17.227307,"Ponta do Sol, Ribeira Grande",-26.358472,17.227294,chickens.rowboat.skulls,en,https://w3w.co/chickens.rowboat.skulls
+ZZ,-120.546494,20.260161,-120.546466,20.260188,,-120.54648,20.260174,chickens.rowboat.turkey,en,https://w3w.co/chickens.rowboat.turkey
+ZZ,-164.455135,51.406749,-164.455092,51.406776,,-164.455113,51.406762,chickens.shady.cannonball,en,https://w3w.co/chickens.shady.cannonball
+CN,123.296865,48.39268,123.296905,48.392707,"Gannan, Heilongjiang",123.296885,48.392694,chickens.shady.chest,en,https://w3w.co/chickens.shady.chest
+FR,0.085481,43.253611,0.085519,43.253638,"Aureilhan, Hautes-Pyr??n??es",0.0855,43.253625,chickens.shady.diet,en,https://w3w.co/chickens.shady.diet
+CN,111.358559,35.555304,111.358592,35.555331,"Changzhi, Shanxi",111.358575,35.555317,chickens.shady.misfits,en,https://w3w.co/chickens.shady.misfits
+BR,-47.81138,-15.700679,-47.811352,-15.700652,"Bras??lia, Federal District",-47.811366,-15.700666,chickens.shady.parrot,en,https://w3w.co/chickens.shady.parrot
+ZZ,-169.811827,15.946367,-169.811799,15.946394,,-169.811813,15.94638,chickens.shady.rowboat,en,https://w3w.co/chickens.shady.rowboat
+AU,137.562078,-30.383463,137.562109,-30.383436,"Roxby Downs, South Australia",137.562094,-30.383449,chickens.shady.skulls,en,https://w3w.co/chickens.shady.skulls
+CN,116.944934,37.950059,116.944969,37.950086,"Botou, Hebei",116.944951,37.950073,chickens.shady.turkey,en,https://w3w.co/chickens.shady.turkey
+GL,-45.189486,66.378099,-45.189418,66.378126,,-45.189452,66.378113,chickens.skulls.cannonball,en,https://w3w.co/chickens.skulls.cannonball
+CA,-81.35987,47.660522,-81.35983,47.660549,"Timmins, Ontario",-81.35985,47.660535,chickens.skulls.chest,en,https://w3w.co/chickens.skulls.chest
+CA,-123.951804,62.999757,-123.951745,62.999784,"Wrigley, Northwest Territories",-123.951775,62.999771,chickens.skulls.diet,en,https://w3w.co/chickens.skulls.diet
+CA,-77.761399,61.299159,-77.761343,61.299186,"Alkulivik, Quebec",-77.761371,61.299173,chickens.skulls.misfits,en,https://w3w.co/chickens.skulls.misfits
+AU,144.715357,-31.969868,144.715389,-31.969842,"Cobar, New South Wales",144.715373,-31.969855,chickens.skulls.parrot,en,https://w3w.co/chickens.skulls.parrot
+ZZ,135.661136,28.642869,135.661166,28.642896,,135.661151,28.642882,chickens.skulls.rowboat,en,https://w3w.co/chickens.skulls.rowboat
+CA,-118.393973,54.547165,-118.393927,54.547192,"Grande Prairie, Alberta",-118.39395,54.547178,chickens.skulls.shady,en,https://w3w.co/chickens.skulls.shady
+CA,-105.696048,51.946017,-105.696004,51.946044,"Watrous, Saskatchewan",-105.696026,51.94603,chickens.skulls.turkey,en,https://w3w.co/chickens.skulls.turkey
+GL,-47.150188,64.535225,-47.150125,64.535252,"Nuuk, Sermersooq",-47.150157,64.535239,chickens.turkey.cannonball,en,https://w3w.co/chickens.turkey.cannonball
+ID,106.395847,-6.150092,106.395874,-6.150065,"Kresek, West Java",106.39586,-6.150078,chickens.turkey.chest,en,https://w3w.co/chickens.turkey.chest
+AR,-59.680264,-33.650146,-59.680232,-33.650119,"San Pedro, Buenos Aires",-59.680248,-33.650132,chickens.turkey.diet,en,https://w3w.co/chickens.turkey.diet
+CN,116.858333,36.637532,116.858367,36.637559,"Jinan, Shandong",116.85835,36.637546,chickens.turkey.misfits,en,https://w3w.co/chickens.turkey.misfits
+PT,-7.484894,41.714882,-7.484858,41.714909,"Chaves, Vila Real",-7.484876,41.714896,chickens.turkey.parrot,en,https://w3w.co/chickens.turkey.parrot
+ZZ,159.006506,32.717416,159.006538,32.717443,,159.006522,32.717429,chickens.turkey.rowboat,en,https://w3w.co/chickens.turkey.rowboat
+VE,-66.63015,10.227711,-66.630123,10.227738,"Santa Teresa del Tuy, Miranda",-66.630136,10.227725,chickens.turkey.shady,en,https://w3w.co/chickens.turkey.shady
+AU,147.304457,-35.109611,147.30449,-35.109584,"Wagga Wagga, New South Wales",147.304473,-35.109597,chickens.turkey.skulls,en,https://w3w.co/chickens.turkey.skulls
+CA,-79.759601,53.48453,-79.759556,53.484557,"Chisasibi, Quebec",-79.759579,53.484543,diet.cannonball.chest,en,https://w3w.co/diet.cannonball.chest
+ZZ,-141.264275,77.914915,-141.264146,77.914942,,-141.26421,77.914928,diet.cannonball.chickens,en,https://w3w.co/diet.cannonball.chickens
+ZZ,-138.585063,55.867454,-138.585015,55.867481,"Sitka, Alaska",-138.585039,55.867467,diet.cannonball.misfits,en,https://w3w.co/diet.cannonball.misfits
+ZZ,-5.58137,47.677663,-5.58133,47.67769,"Plogoff, Finist??re",-5.58135,47.677676,diet.cannonball.parrot,en,https://w3w.co/diet.cannonball.parrot
+ZZ,64.113821,21.774957,64.11385,21.774984,,64.113836,21.77497,diet.cannonball.rowboat,en,https://w3w.co/diet.cannonball.rowboat
+ZZ,-178.586557,63.141979,-178.586497,63.142006,"Beringovskiy, Chukotka Autonomous Okrug",-178.586527,63.141993,diet.cannonball.shady,en,https://w3w.co/diet.cannonball.shady
+ZZ,-115.581967,80.904997,-115.581796,80.905024,,-115.581882,80.90501,diet.cannonball.skulls,en,https://w3w.co/diet.cannonball.skulls
+ZZ,72.481649,79.645456,72.481799,79.645483,"Franz Josef Land, Arkhangelsk Oblast",72.481724,79.645469,diet.cannonball.turkey,en,https://w3w.co/diet.cannonball.turkey
+ZZ,-24.997614,38.764877,-24.99758,38.764904,"Senhora do Ros??rio, Azores",-24.997597,38.764891,diet.chest.cannonball,en,https://w3w.co/diet.chest.cannonball
+DE,13.796435,51.119691,13.796478,51.119718,"Dresden, Saxony",13.796456,51.119704,diet.chest.chickens,en,https://w3w.co/diet.chest.chickens
+IR,46.191143,35.517464,46.191176,35.517491,"Marivan, Kordestan",46.19116,35.517478,diet.chest.misfits,en,https://w3w.co/diet.chest.misfits
+JP,132.596732,34.428148,132.596765,34.428175,"Higashihiroshima, Hiroshima",132.596748,34.428161,diet.chest.parrot,en,https://w3w.co/diet.chest.parrot
+ZZ,16.812773,32.829237,16.812805,32.829264,"Mi??r??tah, Misrata",16.812789,32.82925,diet.chest.rowboat,en,https://w3w.co/diet.chest.rowboat
+SA,44.386135,24.482643,44.386164,24.48267,"Dawadmi, Riyadh",44.38615,24.482657,diet.chest.shady,en,https://w3w.co/diet.chest.shady
+CA,-82.368291,72.190384,-82.368203,72.190411,"Arctic Bay, Nunavut",-82.368247,72.190397,diet.chest.skulls,en,https://w3w.co/diet.chest.skulls
+CO,-75.798679,8.78722,-75.798652,8.787247,"Monter??a, C??rdoba",-75.798666,8.787233,diet.chest.turkey,en,https://w3w.co/diet.chest.turkey
+ZZ,146.920789,52.528595,146.920833,52.528622,"Nogliki, Sakhalin Oblast",146.920811,52.528609,diet.chickens.cannonball,en,https://w3w.co/diet.chickens.cannonball
+US,-100.38334,32.48267,-100.383308,32.482697,"Sweetwater, Texas",-100.383324,32.482684,diet.chickens.chest,en,https://w3w.co/diet.chickens.chest
+JP,140.795142,43.186961,140.795179,43.186988,"Yoichi, Hokkaido",140.79516,43.186974,diet.chickens.misfits,en,https://w3w.co/diet.chickens.misfits
+VE,-67.890943,10.233587,-67.890916,10.233614,"Guacara, Carabobo",-67.89093,10.2336,diet.chickens.parrot,en,https://w3w.co/diet.chickens.parrot
+ZZ,138.051119,21.546329,138.051148,21.546356,,138.051134,21.546343,diet.chickens.rowboat,en,https://w3w.co/diet.chickens.rowboat
+CN,121.765088,31.371415,121.76512,31.371442,Shanghai,121.765104,31.371429,diet.chickens.shady,en,https://w3w.co/diet.chickens.shady
+CA,-87.174543,54.645887,-87.174497,54.645914,"Peawanuck, Ontario",-87.17452,54.645901,diet.chickens.skulls,en,https://w3w.co/diet.chickens.skulls
+DE,8.649014,50.206716,8.649056,50.206743,"Bad Homburg vor der H??he, Hesse",8.649035,50.20673,diet.chickens.turkey,en,https://w3w.co/diet.chickens.turkey
+ZZ,-23.664268,40.147801,-23.664232,40.147828,"Senhora do Ros??rio, Azores",-23.66425,40.147814,diet.misfits.cannonball,en,https://w3w.co/diet.misfits.cannonball
+IT,12.600297,41.799483,12.600333,41.799509,"Ciampino, Latium",12.600315,41.799496,diet.misfits.chest,en,https://w3w.co/diet.misfits.chest
+TR,28.254922,37.950275,28.254956,37.950302,"??sabeyli, Ayd??n",28.254939,37.950288,diet.misfits.chickens,en,https://w3w.co/diet.misfits.chickens
+AR,-58.034498,-34.949601,-58.034465,-34.949574,"La Plata, Buenos Aires",-58.034481,-34.949588,diet.misfits.parrot,en,https://w3w.co/diet.misfits.parrot
+ZZ,121.764526,23.459897,121.764555,23.459923,"Hualien City, Taiwan",121.764541,23.45991,diet.misfits.rowboat,en,https://w3w.co/diet.misfits.rowboat
+IR,50.843935,28.938228,50.843966,28.938255,Bushehr,50.84395,28.938241,diet.misfits.shady,en,https://w3w.co/diet.misfits.shady
+CA,-56.771246,51.637937,-56.771203,51.637964,"Saint-Augustin, Quebec",-56.771224,51.63795,diet.misfits.skulls,en,https://w3w.co/diet.misfits.skulls
+DE,6.761076,51.440195,6.76112,51.440222,"Duisburg, North Rhine-Westphalia",6.761098,51.440209,diet.misfits.turkey,en,https://w3w.co/diet.misfits.turkey
+CN,129.507951,42.881334,129.507987,42.881361,"Yanji, Jilin",129.507969,42.881347,diet.parrot.chickens,en,https://w3w.co/diet.parrot.chickens
+BR,-42.66847,-19.565168,-42.668441,-19.565141,"Tim??teo, Minas Gerais",-42.668455,-19.565155,diet.parrot.misfits,en,https://w3w.co/diet.parrot.misfits
+ZZ,-64.445792,32.752803,-64.44576,32.75283,"St George's, Bermuda",-64.445776,32.752816,diet.parrot.rowboat,en,https://w3w.co/diet.parrot.rowboat
+CA,-71.321023,46.900011,-71.320983,46.900038,"La Haute-Saint-Charles, Quebec",-71.321003,46.900024,diet.parrot.shady,en,https://w3w.co/diet.parrot.shady
+CA,-136.774934,65.743909,-136.774869,65.743936,"Fort McPherson, Northwest Territories",-136.774902,65.743922,diet.parrot.skulls,en,https://w3w.co/diet.parrot.skulls
+TR,29.304131,40.829587,29.304167,40.829614,"????meler, Istanbul",29.304149,40.829601,diet.parrot.turkey,en,https://w3w.co/diet.parrot.turkey
+ZZ,-137.157004,15.118208,-137.156976,15.118235,,-137.15699,15.118222,diet.rowboat.cannonball,en,https://w3w.co/diet.rowboat.cannonball
+ZZ,66.781368,24.297488,66.781398,24.297515,"Karachi, Sindh",66.781383,24.297502,diet.rowboat.chest,en,https://w3w.co/diet.rowboat.chest
+ZZ,-47.510214,14.931247,-47.510186,14.931274,,-47.5102,14.931261,diet.rowboat.chickens,en,https://w3w.co/diet.rowboat.chickens
+ZZ,-123.733103,16.511481,-123.733075,16.511508,,-123.733089,16.511495,diet.rowboat.misfits,en,https://w3w.co/diet.rowboat.misfits
+ZZ,-90.582594,24.262721,-90.582564,24.262748,,-90.582579,24.262734,diet.rowboat.parrot,en,https://w3w.co/diet.rowboat.parrot
+ZZ,33.345457,35.949978,33.34549,35.950005,"Ayd??nc??k, Mersin",33.345474,35.949992,diet.rowboat.shady,en,https://w3w.co/diet.rowboat.shady
+ZZ,-134.987608,25.725393,-134.987578,25.72542,,-134.987593,25.725407,diet.rowboat.skulls,en,https://w3w.co/diet.rowboat.skulls
+ZZ,173.969804,29.549941,173.969835,29.549968,,173.96982,29.549954,diet.rowboat.turkey,en,https://w3w.co/diet.rowboat.turkey
+ZZ,-27.039227,44.088993,-27.039189,44.08902,,-27.039208,44.089007,diet.shady.cannonball,en,https://w3w.co/diet.shady.cannonball
+KR,129.039293,35.122197,129.039326,35.122224,Busan,129.03931,35.122211,diet.shady.chest,en,https://w3w.co/diet.shady.chest
+CN,130.518915,45.939656,130.518953,45.939683,"Boli, Heilongjiang",130.518934,45.93967,diet.shady.chickens,en,https://w3w.co/diet.shady.chickens
+BR,-54.742066,-2.423512,-54.742039,-2.423485,"Santar??m, Par??",-54.742053,-2.423499,diet.shady.misfits,en,https://w3w.co/diet.shady.misfits
+AM,44.500494,40.248113,44.50053,40.24814,"K’anak’erravan, Yerevan",44.500512,40.248127,diet.shady.parrot,en,https://w3w.co/diet.shady.parrot
+ZZ,157.69408,20.268974,157.694109,20.269001,,157.694095,20.268987,diet.shady.rowboat,en,https://w3w.co/diet.shady.rowboat
+AU,124.504307,-30.21464,124.504338,-30.214613,"Neale, Western Australia",124.504323,-30.214626,diet.shady.skulls,en,https://w3w.co/diet.shady.skulls
+MX,-98.922218,19.63791,-98.92219,19.637937,"Santa Catarina, M??xico",-98.922204,19.637923,diet.shady.turkey,en,https://w3w.co/diet.shady.turkey
+ZZ,-145.988666,54.518677,-145.988619,54.518704,,-145.988643,54.518691,diet.skulls.cannonball,en,https://w3w.co/diet.skulls.cannonball
+AU,129.058083,-30.661923,129.058114,-30.661896,"Eucla, Western Australia",129.058098,-30.66191,diet.skulls.chest,en,https://w3w.co/diet.skulls.chest
+CA,-99.972402,63.210247,-99.972342,63.210274,"Dubawnt Lake, Nunavut",-99.972372,63.21026,diet.skulls.chickens,en,https://w3w.co/diet.skulls.chickens
+CA,-107.240136,58.368963,-107.240084,58.36899,"Black Lake, Saskatchewan",-107.24011,58.368976,diet.skulls.misfits,en,https://w3w.co/diet.skulls.misfits
+AU,144.626216,-37.025065,144.626249,-37.025038,"Castlemaine, Victoria",144.626232,-37.025051,diet.skulls.parrot,en,https://w3w.co/diet.skulls.parrot
+ZZ,130.40015,34.465475,130.400183,34.465502,"Nagato, Yamaguchi",130.400167,34.465489,diet.skulls.rowboat,en,https://w3w.co/diet.skulls.rowboat
+CA,-116.55394,52.700302,-116.553895,52.700329,"Edson, Alberta",-116.553918,52.700315,diet.skulls.shady,en,https://w3w.co/diet.skulls.shady
+CA,-92.755345,50.14082,-92.755303,50.140847,"Dryden, Ontario",-92.755324,50.140834,diet.skulls.turkey,en,https://w3w.co/diet.skulls.turkey
+ZZ,177.304642,53.800803,177.304688,53.80083,,177.304665,53.800817,diet.turkey.cannonball,en,https://w3w.co/diet.turkey.cannonball
+IQ,44.54512,33.306355,44.545152,33.306382,Baghdad,44.545136,33.306369,diet.turkey.chest,en,https://w3w.co/diet.turkey.chest
+UY,-56.086354,-34.803795,-56.086321,-34.803768,"Colonia Nicolich, Canelones",-56.086338,-34.803781,diet.turkey.chickens,en,https://w3w.co/diet.turkey.chickens
+CN,121.514432,38.968979,121.514467,38.969006,"Dalian, Liaoning",121.51445,38.968993,diet.turkey.misfits,en,https://w3w.co/diet.turkey.misfits
+ES,-4.815418,37.796329,-4.815384,37.796356,"Villarrubia, Andalusia",-4.815401,37.796343,diet.turkey.parrot,en,https://w3w.co/diet.turkey.parrot
+ZZ,-45.558356,15.660603,-45.558328,15.66063,,-45.558342,15.660616,diet.turkey.rowboat,en,https://w3w.co/diet.turkey.rowboat
+BR,-40.651242,-19.565842,-40.651213,-19.565815,"Colatina, Esp??rito Santo",-40.651228,-19.565828,diet.turkey.shady,en,https://w3w.co/diet.turkey.shady
+AU,141.974266,-34.649121,141.974298,-34.649094,"Mildura, Victoria",141.974282,-34.649108,diet.turkey.skulls,en,https://w3w.co/diet.turkey.skulls
+ZZ,-80.420989,57.564737,-80.420939,57.564764,"Sanikiluaq, Quebec",-80.420964,57.56475,misfits.cannonball.chest,en,https://w3w.co/misfits.cannonball.chest
+ZZ,-179.830076,37.387532,-179.830042,37.387559,,-179.830059,37.387546,misfits.cannonball.chickens,en,https://w3w.co/misfits.cannonball.chickens
+ZZ,151.913836,44.394701,151.913874,44.394728,,151.913855,44.394715,misfits.cannonball.diet,en,https://w3w.co/misfits.cannonball.diet
+ZZ,-49.828541,51.341203,-49.828497,51.34123,,-49.828519,51.341217,misfits.cannonball.parrot,en,https://w3w.co/misfits.cannonball.parrot
+ZZ,-32.485502,34.294712,-32.485469,34.294739,,-32.485485,34.294726,misfits.cannonball.rowboat,en,https://w3w.co/misfits.cannonball.rowboat
+ZZ,50.292255,71.263853,50.292339,71.26388,"Belushya Guba, Arkhangelsk Oblast",50.292297,71.263866,misfits.cannonball.shady,en,https://w3w.co/misfits.cannonball.shady
+ZZ,-146.266253,38.460948,-146.266219,38.460975,,-146.266236,38.460961,misfits.cannonball.skulls,en,https://w3w.co/misfits.cannonball.skulls
+ZZ,158.41766,38.118074,158.417695,38.1181,,158.417677,38.118087,misfits.cannonball.turkey,en,https://w3w.co/misfits.cannonball.turkey
+ZZ,-60.787842,70.649714,-60.78776,70.649741,"Upernavik, Avannaata",-60.787801,70.649728,misfits.chest.cannonball,en,https://w3w.co/misfits.chest.cannonball
+CN,122.299614,37.140039,122.299648,37.140066,"Yatou, Shandong",122.299631,37.140052,misfits.chest.chickens,en,https://w3w.co/misfits.chest.chickens
+CA,-79.835256,43.169847,-79.835219,43.169874,"Hamilton, Ontario",-79.835237,43.16986,misfits.chest.diet,en,https://w3w.co/misfits.chest.diet
+US,-97.76518,31.098318,-97.765149,31.098345,"Fort Hood, Texas",-97.765164,31.098332,misfits.chest.parrot,en,https://w3w.co/misfits.chest.parrot
+ZZ,-173.177148,21.386239,-173.17712,21.386266,,-173.177134,21.386252,misfits.chest.rowboat,en,https://w3w.co/misfits.chest.rowboat
+DE,9.85,51.81948,9.850044,51.819507,"Einbeck, Lower Saxony",9.850022,51.819494,misfits.chest.shady,en,https://w3w.co/misfits.chest.shady
+CA,-96.020893,76.83964,-96.020774,76.839667,"Resolute, Nunavut",-96.020833,76.839653,misfits.chest.skulls,en,https://w3w.co/misfits.chest.skulls
+PH,120.927055,14.624057,120.927083,14.624084,"Caloocan City, Metro Manila",120.927069,14.62407,misfits.chest.turkey,en,https://w3w.co/misfits.chest.turkey
+ZZ,7.342197,42.055843,7.342233,42.05587,"Carg??se, Corse-du-Sud",7.342215,42.055857,misfits.chickens.cannonball,en,https://w3w.co/misfits.chickens.cannonball
+BR,-42.02493,-22.868559,-42.024901,-22.868532,"Cabo Frio, Rio de Janeiro",-42.024915,-22.868545,misfits.chickens.chest,en,https://w3w.co/misfits.chickens.chest
+MX,-106.453052,23.237306,-106.453022,23.237333,"Mazatl??n, Sinaloa",-106.453037,23.237319,misfits.chickens.diet,en,https://w3w.co/misfits.chickens.diet
+US,-96.696429,33.079749,-96.696396,33.079776,"Allen, Texas",-96.696412,33.079762,misfits.chickens.parrot,en,https://w3w.co/misfits.chickens.parrot
+ZZ,149.217187,34.066085,149.21722,34.066111,,149.217204,34.066098,misfits.chickens.rowboat,en,https://w3w.co/misfits.chickens.rowboat
+DE,9.380425,54.759244,9.380471,54.759271,"Handewitt, Schleswig-Holstein",9.380448,54.759258,misfits.chickens.shady,en,https://w3w.co/misfits.chickens.shady
+CA,-105.000618,55.46181,-105.000571,55.461837,"La Ronge, Saskatchewan",-105.000595,55.461824,misfits.chickens.skulls,en,https://w3w.co/misfits.chickens.skulls
+RU,39.528162,47.230487,39.528201,47.230514,"Kalinin, Rostov Oblast",39.528182,47.230501,misfits.chickens.turkey,en,https://w3w.co/misfits.chickens.turkey
+ZZ,148.925831,50.979679,148.925874,50.979706,,148.925852,50.979692,misfits.diet.cannonball,en,https://w3w.co/misfits.diet.cannonball
+CN,125.113219,44.252453,125.113257,44.25248,"Xinglongshan, Jilin",125.113238,44.252466,misfits.diet.chest,en,https://w3w.co/misfits.diet.chest
+MX,-99.222831,19.183969,-99.222803,19.183996,"San Miguel Ajusco, Mexico City",-99.222817,19.183983,misfits.diet.chickens,en,https://w3w.co/misfits.diet.chickens
+RU,37.368723,56.07576,37.368772,56.075787,"Lugovaya, Moscow Oblast",37.368748,56.075774,misfits.diet.parrot,en,https://w3w.co/misfits.diet.parrot
+ZZ,-143.412323,15.862171,-143.412295,15.862198,,-143.412309,15.862185,misfits.diet.rowboat,en,https://w3w.co/misfits.diet.rowboat
+RU,39.56519,52.671922,39.565235,52.671949,"Kuz’minskiye Otverzhki, Lipetsk Oblast",39.565213,52.671936,misfits.diet.shady,en,https://w3w.co/misfits.diet.shady
+CA,-64.417119,53.404458,-64.417074,53.404485,"Labrador City, Newfoundland & Labrador",-64.417096,53.404471,misfits.diet.skulls,en,https://w3w.co/misfits.diet.skulls
+CN,117.860976,36.893165,117.86101,36.893192,"Zhoucun, Shandong",117.860993,36.893179,misfits.diet.turkey,en,https://w3w.co/misfits.diet.turkey
+ZZ,-30.21452,59.342847,-30.214467,59.342874,,-30.214493,59.342861,misfits.parrot.cannonball,en,https://w3w.co/misfits.parrot.cannonball
+MA,-7.771367,33.492454,-7.771334,33.492481,"Casablanca, Casablanca-Settat",-7.771351,33.492467,misfits.parrot.chest,en,https://w3w.co/misfits.parrot.chest
+BR,-59.87743,-3.20332,-59.877403,-3.203293,"Careiro da V??rzea, Amazonas",-59.877417,-3.203307,misfits.parrot.chickens,en,https://w3w.co/misfits.parrot.chickens
+RU,38.518213,52.58743,38.518257,52.587457,"Yelets, Lipetsk Oblast",38.518235,52.587443,misfits.parrot.diet,en,https://w3w.co/misfits.parrot.diet
+ZZ,-23.159688,21.393138,-23.159659,21.393165,,-23.159674,21.393152,misfits.parrot.rowboat,en,https://w3w.co/misfits.parrot.rowboat
+RU,56.355392,58.120257,56.355443,58.120284,"Perm, Perm Krai",56.355418,58.12027,misfits.parrot.shady,en,https://w3w.co/misfits.parrot.shady
+CA,-106.743308,66.976498,-106.74324,66.976525,"Bathurst Lake, Nunavut",-106.743274,66.976512,misfits.parrot.skulls,en,https://w3w.co/misfits.parrot.skulls
+CN,112.179757,39.049833,112.179792,39.04986,"Shuozhou, Shanxi",112.179774,39.049846,misfits.parrot.turkey,en,https://w3w.co/misfits.parrot.turkey
+ZZ,157.694131,23.459357,157.69416,23.459384,,157.694145,23.459371,misfits.rowboat.cannonball,en,https://w3w.co/misfits.rowboat.cannonball
+ZZ,-12.944664,34.846971,-12.944631,34.846998,,-12.944647,34.846984,misfits.rowboat.chest,en,https://w3w.co/misfits.rowboat.chest
+ZZ,-143.697623,23.23073,-143.697594,23.230757,,-143.697609,23.230743,misfits.rowboat.chickens,en,https://w3w.co/misfits.rowboat.chickens
+ZZ,177.508722,27.48957,177.508753,27.489597,,177.508738,27.489583,misfits.rowboat.diet,en,https://w3w.co/misfits.rowboat.diet
+ZZ,-62.071907,34.812204,-62.071874,34.81223,,-62.071891,34.812217,misfits.rowboat.parrot,en,https://w3w.co/misfits.rowboat.parrot
+ZZ,-111.755404,21.870041,-111.755375,21.870068,"Colonia del Sol, Baja California Sur",-111.75539,21.870054,misfits.rowboat.shady,en,https://w3w.co/misfits.rowboat.shady
+ZZ,-43.586959,36.608209,-43.586926,36.608236,,-43.586943,36.608223,misfits.rowboat.skulls,en,https://w3w.co/misfits.rowboat.skulls
+ZZ,-142.589258,17.053337,-142.589229,17.053364,,-142.589243,17.05335,misfits.rowboat.turkey,en,https://w3w.co/misfits.rowboat.turkey
+ZZ,66.394576,81.34883,66.394756,81.348857,"Franz Josef Land, Arkhangelsk Oblast",66.394666,81.348844,misfits.shady.cannonball,en,https://w3w.co/misfits.shady.cannonball
+BR,-50.056687,-7.051261,-50.05666,-7.051234,"Concei????o do Araguaia, Par??",-50.056674,-7.051248,misfits.shady.chest,en,https://w3w.co/misfits.shady.chest
+TR,27.757875,41.142842,27.757911,41.142869,"??orlu, Tekirda??",27.757893,41.142855,misfits.shady.chickens,en,https://w3w.co/misfits.shady.chickens
+CO,-75.474148,6.225259,-75.474121,6.225286,"Guarne, Antioquia",-75.474135,6.225272,misfits.shady.diet,en,https://w3w.co/misfits.shady.diet
+CN,103.99523,36.074655,103.995263,36.074682,"Lanzhou, Gansu",103.995246,36.074668,misfits.shady.parrot,en,https://w3w.co/misfits.shady.parrot
+ZZ,-132.731769,32.413729,-132.731737,32.413756,,-132.731753,32.413742,misfits.shady.rowboat,en,https://w3w.co/misfits.shady.rowboat
+CA,-73.127717,45.201865,-73.127678,45.201892,"Venise-en-Qu??bec, Quebec",-73.127697,45.201879,misfits.shady.skulls,en,https://w3w.co/misfits.shady.skulls
+RU,65.254181,55.422785,65.254228,55.422812,"Kurgan, Kurgan Oblast",65.254205,55.422798,misfits.shady.turkey,en,https://w3w.co/misfits.shady.turkey
+ZZ,-55.019627,43.379258,-55.01959,43.379285,,-55.019609,43.379272,misfits.skulls.cannonball,en,https://w3w.co/misfits.skulls.cannonball
+AU,123.628113,-30.963265,123.628145,-30.963238,"Stoneville, Western Australia",123.628129,-30.963252,misfits.skulls.chest,en,https://w3w.co/misfits.skulls.chest
+CA,-102.923395,62.825571,-102.923336,62.825598,"Dubawnt Lake, Nunavut",-102.923365,62.825585,misfits.skulls.chickens,en,https://w3w.co/misfits.skulls.chickens
+CA,-63.89123,59.559886,-63.891177,59.559913,"Kangiqsualujjuaq, Quebec",-63.891204,59.559899,misfits.skulls.diet,en,https://w3w.co/misfits.skulls.diet
+AU,144.746795,-40.826407,144.74683,-40.82638,"Smithton, Tasmania",144.746813,-40.826393,misfits.skulls.parrot,en,https://w3w.co/misfits.skulls.parrot
+ZZ,167.190731,22.814144,167.19076,22.814171,,167.190746,22.814158,misfits.skulls.rowboat,en,https://w3w.co/misfits.skulls.rowboat
+CA,-117.511146,52.440626,-117.511102,52.440653,"Jasper Park Lodge, Alberta",-117.511124,52.44064,misfits.skulls.shady,en,https://w3w.co/misfits.skulls.shady
+CA,-70.728518,49.881145,-70.728476,49.881172,"Pont Rouge, Quebec",-70.728497,49.881158,misfits.skulls.turkey,en,https://w3w.co/misfits.skulls.turkey
+ZZ,-178.118601,42.869718,-178.118564,42.869745,,-178.118583,42.869731,misfits.turkey.cannonball,en,https://w3w.co/misfits.turkey.cannonball
+CN,121.607713,31.645752,121.607744,31.645779,"Huilong, Jiangsu",121.607729,31.645766,misfits.turkey.chest,en,https://w3w.co/misfits.turkey.chest
+AU,150.148274,-33.480191,150.148306,-33.480164,"Lithgow, New South Wales",150.14829,-33.480177,misfits.turkey.chickens,en,https://w3w.co/misfits.turkey.chickens
+ES,-1.642689,42.852226,-1.642652,42.852253,"Berriozar, Navarre",-1.642671,42.85224,misfits.turkey.diet,en,https://w3w.co/misfits.turkey.diet
+DE,9.036583,49.677393,9.036625,49.67742,"Michelstadt, Hesse",9.036604,49.677407,misfits.turkey.parrot,en,https://w3w.co/misfits.turkey.parrot
+ZZ,158.055927,26.305358,158.055957,26.305385,,158.055942,26.305371,misfits.turkey.rowboat,en,https://w3w.co/misfits.turkey.rowboat
+SK,21.919491,48.773555,21.919532,48.773582,"Michalovce, Ko??ick??",21.919511,48.773569,misfits.turkey.shady,en,https://w3w.co/misfits.turkey.shady
+AU,118.072732,-32.958199,118.072764,-32.958172,"Wagin, Western Australia",118.072748,-32.958185,misfits.turkey.skulls,en,https://w3w.co/misfits.turkey.skulls
+ZZ,-55.655922,43.937257,-55.655885,43.937284,,-55.655904,43.937271,parrot.cannonball.chest,en,https://w3w.co/parrot.cannonball.chest
+ZZ,-32.461638,61.242642,-32.461582,61.242669,,-32.46161,61.242656,parrot.cannonball.chickens,en,https://w3w.co/parrot.cannonball.chickens
+GL,-25.665608,78.249811,-25.665476,78.249838,Northeast Greenland National Park,-25.665542,78.249825,parrot.cannonball.diet,en,https://w3w.co/parrot.cannonball.diet
+ZZ,-149.473046,45.736848,-149.473007,45.736875,,-149.473027,45.736861,parrot.cannonball.misfits,en,https://w3w.co/parrot.cannonball.misfits
+ZZ,165.462268,36.723669,165.462302,36.723696,,165.462285,36.723682,parrot.cannonball.rowboat,en,https://w3w.co/parrot.cannonball.rowboat
+ZZ,145.065855,50.844707,145.065897,50.844734,"Tymovskoye, Sakhalin Oblast",145.065876,50.84472,parrot.cannonball.shady,en,https://w3w.co/parrot.cannonball.shady
+ZZ,-170.777185,64.857724,-170.777121,64.857751,"Lavrentiya, Chukotka Autonomous Okrug",-170.777153,64.857738,parrot.cannonball.skulls,en,https://w3w.co/parrot.cannonball.skulls
+ZZ,-28.914325,63.306517,-28.914265,63.306544,,-28.914295,63.30653,parrot.cannonball.turkey,en,https://w3w.co/parrot.cannonball.turkey
+ZZ,-16.371859,58.962026,-16.371807,58.962053,,-16.371833,58.962039,parrot.chest.cannonball,en,https://w3w.co/parrot.chest.cannonball
+AR,-64.385522,-33.892518,-64.38549,-33.892491,"Vicu??a Mackenna, C??rdoba",-64.385506,-33.892505,parrot.chest.chickens,en,https://w3w.co/parrot.chest.chickens
+CN,109.699787,40.523555,109.699823,40.523582,"Baotou, Inner Mongolia",109.699805,40.523569,parrot.chest.diet,en,https://w3w.co/parrot.chest.diet
+IR,46.439232,33.658393,46.439264,33.65842,"Ilam, Ilam Province",46.439248,33.658406,parrot.chest.misfits,en,https://w3w.co/parrot.chest.misfits
+ZZ,-49.596341,23.315195,-49.596312,23.315222,,-49.596327,23.315209,parrot.chest.rowboat,en,https://w3w.co/parrot.chest.rowboat
+RU,38.391791,55.705476,38.391839,55.705503,"Imeni Vorovskogo, Moscow Oblast",38.391815,55.70549,parrot.chest.shady,en,https://w3w.co/parrot.chest.shady
+CA,-122.375633,59.238357,-122.37558,59.238384,"Fort Nelson, British Columbia",-122.375607,59.238371,parrot.chest.skulls,en,https://w3w.co/parrot.chest.skulls
+PH,124.303124,7.968386,124.303152,7.968413,"Marawi City, Bangsamoro",124.303138,7.9684,parrot.chest.turkey,en,https://w3w.co/parrot.chest.turkey
+ZZ,131.273045,38.201488,131.27308,38.201515,"Ulleung-gun, Gyeongsangbuk-do",131.273062,38.201501,parrot.chickens.cannonball,en,https://w3w.co/parrot.chickens.cannonball
+RU,38.480102,55.77051,38.48015,55.770537,"Elektrostal’, Moscow Oblast",38.480126,55.770523,parrot.chickens.chest,en,https://w3w.co/parrot.chickens.chest
+PL,22.817494,49.830072,22.817536,49.830099,"??urawica, Subcarpathian",22.817515,49.830086,parrot.chickens.diet,en,https://w3w.co/parrot.chickens.diet
+TH,100.566428,13.849801,100.566456,13.849828,Nonthaburi,100.566442,13.849814,parrot.chickens.misfits,en,https://w3w.co/parrot.chickens.misfits
+ZZ,26.231932,36.453374,26.231966,36.453401,"Astyp??laia, South Aegean",26.231949,36.453388,parrot.chickens.rowboat,en,https://w3w.co/parrot.chickens.rowboat
+PR,-66.018247,18.43998,-66.018219,18.440006,Carolina,-66.018233,18.439993,parrot.chickens.shady,en,https://w3w.co/parrot.chickens.shady
+CA,-71.497186,45.610527,-71.497148,45.610554,"East Angus, Quebec",-71.497167,45.610541,parrot.chickens.skulls,en,https://w3w.co/parrot.chickens.skulls
+AR,-58.527843,-34.797111,-58.527811,-34.797084,"Adrogu??, Buenos Aires",-58.527827,-34.797097,parrot.chickens.turkey,en,https://w3w.co/parrot.chickens.turkey
+ZZ,149.498808,45.41699,149.498847,45.417017,"Kuril’sk, Sakhalin Oblast",149.498828,45.417004,parrot.diet.cannonball,en,https://w3w.co/parrot.diet.cannonball
+FR,1.95527,48.672569,1.95531,48.672596,"Cernay-la-Ville, Yvelines",1.95529,48.672582,parrot.diet.chest,en,https://w3w.co/parrot.diet.chest
+BG,23.383942,42.615028,23.383978,42.615055,"Sofia, Sofia-Capital",23.38396,42.615042,parrot.diet.chickens,en,https://w3w.co/parrot.diet.chickens
+FR,3.938894,43.50186,3.938931,43.501887,"Palavas-les-Flots, H??rault",3.938912,43.501873,parrot.diet.misfits,en,https://w3w.co/parrot.diet.misfits
+ZZ,-85.098683,17.499461,-85.098654,17.499488,"Savannah Bight, Bay Islands",-85.098669,17.499474,parrot.diet.rowboat,en,https://w3w.co/parrot.diet.rowboat
+IR,49.969571,37.186314,49.969605,37.186341,"Astaneh-ye Ashrafiyeh, Gilan",49.969588,37.186328,parrot.diet.shady,en,https://w3w.co/parrot.diet.shady
+AU,128.110096,-31.714074,128.110128,-31.714047,"Eucla, Western Australia",128.110112,-31.71406,parrot.diet.skulls,en,https://w3w.co/parrot.diet.skulls
+JP,130.406774,33.188282,130.406806,33.188309,"Yanagawa, Fukuoka",130.40679,33.188295,parrot.diet.turkey,en,https://w3w.co/parrot.diet.turkey
+ZZ,-23.538127,62.303283,-23.538069,62.30331,"Grindav??k, Southern Peninsula",-23.538098,62.303296,parrot.misfits.cannonball,en,https://w3w.co/parrot.misfits.cannonball
+DK,10.246903,56.161007,10.246951,56.161034,"??rhus, Central Jutland",10.246927,56.16102,parrot.misfits.chest,en,https://w3w.co/parrot.misfits.chest
+NG,8.275766,11.936772,8.275794,11.936799,"Kura, Kano",8.27578,11.936786,parrot.misfits.chickens,en,https://w3w.co/parrot.misfits.chickens
+CA,-79.55805,43.591904,-79.558013,43.591931,"Toronto, Ontario",-79.558032,43.591917,parrot.misfits.diet,en,https://w3w.co/parrot.misfits.diet
+ZZ,147.499636,15.737522,147.499664,15.737549,Saipan,147.49965,15.737535,parrot.misfits.rowboat,en,https://w3w.co/parrot.misfits.rowboat
+CO,-75.452774,2.841419,-75.452747,2.841446,"Palermo, Huila",-75.452761,2.841432,parrot.misfits.shady,en,https://w3w.co/parrot.misfits.shady
+AU,148.340671,-33.498006,148.340703,-33.497979,"Canowindra, New South Wales",148.340687,-33.497992,parrot.misfits.skulls,en,https://w3w.co/parrot.misfits.skulls
+JP,143.160441,42.926719,143.160477,42.926746,"Obihiro, Hokkaido",143.160459,42.926733,parrot.misfits.turkey,en,https://w3w.co/parrot.misfits.turkey
+ZZ,-126.893445,35.05622,-126.893412,35.056247,,-126.893429,35.056234,parrot.rowboat.cannonball,en,https://w3w.co/parrot.rowboat.cannonball
+ZZ,67.887648,22.022747,67.887677,22.022774,"Dwarka, Gujarat",67.887663,22.02276,parrot.rowboat.chest,en,https://w3w.co/parrot.rowboat.chest
+ZZ,162.674284,34.827593,162.674317,34.82762,,162.674301,34.827606,parrot.rowboat.chickens,en,https://w3w.co/parrot.rowboat.chickens
+ZZ,158.652057,16.415346,158.652085,16.415373,,158.652071,16.41536,parrot.rowboat.diet,en,https://w3w.co/parrot.rowboat.diet
+ZZ,-75.917865,14.653407,-75.917837,14.653434,,-75.917851,14.65342,parrot.rowboat.misfits,en,https://w3w.co/parrot.rowboat.misfits
+ZZ,134.498132,33.133571,134.498165,33.133597,"Muroto-misakicho, Kochi",134.498149,33.133584,parrot.rowboat.shady,en,https://w3w.co/parrot.rowboat.shady
+ZZ,-125.698196,23.408986,-125.698166,23.409013,,-125.698181,23.408999,parrot.rowboat.skulls,en,https://w3w.co/parrot.rowboat.skulls
+ZZ,168.631899,26.983533,168.631929,26.98356,,168.631914,26.983546,parrot.rowboat.turkey,en,https://w3w.co/parrot.rowboat.turkey
+ZZ,28.058003,72.911142,28.058095,72.911169,"Mehamn, Finnmark",28.058049,72.911155,parrot.shady.cannonball,en,https://w3w.co/parrot.shady.cannonball
+IR,51.497604,35.915589,51.497637,35.915616,Tehran,51.49762,35.915602,parrot.shady.chest,en,https://w3w.co/parrot.shady.chest
+KR,128.829939,35.901951,128.829972,35.901978,"Gyeongsan-si, Gyeongsangbuk-do",128.829955,35.901965,parrot.shady.chickens,en,https://w3w.co/parrot.shady.chickens
+MX,-89.597703,20.859692,-89.597674,20.859719,"San Pedro Chimay, Yucat??n",-89.597689,20.859705,parrot.shady.diet,en,https://w3w.co/parrot.shady.diet
+BR,-47.273057,-22.880471,-47.273028,-22.880444,"Hortol??ndia, S??o Paulo",-47.273042,-22.880458,parrot.shady.misfits,en,https://w3w.co/parrot.shady.misfits
+ZZ,-52.465841,34.676019,-52.465808,34.676046,,-52.465824,34.676032,parrot.shady.rowboat,en,https://w3w.co/parrot.shady.rowboat
+CA,-131.479516,69.625,-131.479438,69.625027,"Inuvik, Northwest Territories",-131.479477,69.625013,parrot.shady.skulls,en,https://w3w.co/parrot.shady.skulls
+CN,113.159742,23.222968,113.159771,23.222995,"Guangzhou, Guangdong",113.159756,23.222981,parrot.shady.turkey,en,https://w3w.co/parrot.shady.turkey
+ZZ,6.226031,39.274903,6.226066,39.27493,"Es Castell, Balearic Islands",6.226049,39.274916,parrot.skulls.cannonball,en,https://w3w.co/parrot.skulls.cannonball
+CA,-120.539937,49.10034,-120.539896,49.100367,"Princeton, British Columbia",-120.539917,49.100353,parrot.skulls.chest,en,https://w3w.co/parrot.skulls.chest
+CA,-97.355528,67.288594,-97.355458,67.288621,"Gjoa Haven, Nunavut",-97.355493,67.288608,parrot.skulls.chickens,en,https://w3w.co/parrot.skulls.chickens
+CA,-85.023465,64.189575,-85.023403,64.189602,"Coral Harbour, Nunavut",-85.023434,64.189589,parrot.skulls.diet,en,https://w3w.co/parrot.skulls.diet
+CA,-136.065133,62.57231,-136.065075,62.572337,"Mayo, Yukon",-136.065104,62.572324,parrot.skulls.misfits,en,https://w3w.co/parrot.skulls.misfits
+ZZ,52.64886,24.7431,52.64889,24.743127,"Ruwais, Abu Dhabi",52.648875,24.743114,parrot.skulls.rowboat,en,https://w3w.co/parrot.skulls.rowboat
+CA,-129.074686,55.403649,-129.074639,55.403676,"Terrace, British Columbia",-129.074663,55.403663,parrot.skulls.shady,en,https://w3w.co/parrot.skulls.shady
+CA,-131.845607,52.677501,-131.845562,52.677528,"Prince Rupert, British Columbia",-131.845584,52.677515,parrot.skulls.turkey,en,https://w3w.co/parrot.skulls.turkey
+ZZ,-12.264027,38.848696,-12.263993,38.848723,"Colares, Lisbon",-12.26401,38.848709,parrot.turkey.cannonball,en,https://w3w.co/parrot.turkey.cannonball
+CN,116.298471,36.795009,116.298504,36.795036,"Xiliguantun, Shandong",116.298488,36.795022,parrot.turkey.chest,en,https://w3w.co/parrot.turkey.chest
+CN,114.394656,30.873194,114.394687,30.873221,"Huangpi, Hubei",114.394672,30.873208,parrot.turkey.chickens,en,https://w3w.co/parrot.turkey.chickens
+CN,114.362315,35.539268,114.362348,35.539295,"Huaxian, Henan",114.362331,35.539281,parrot.turkey.diet,en,https://w3w.co/parrot.turkey.diet
+CN,93.384847,42.799105,93.384884,42.799132,"Hami, Xinjiang",93.384866,42.799119,parrot.turkey.misfits,en,https://w3w.co/parrot.turkey.misfits
+ZZ,-170.047523,28.400981,-170.047492,28.401008,,-170.047507,28.400995,parrot.turkey.rowboat,en,https://w3w.co/parrot.turkey.rowboat
+TR,34.444888,39.631145,34.444923,39.631172,"Yerk??y, Yozgat",34.444905,39.631158,parrot.turkey.shady,en,https://w3w.co/parrot.turkey.shady
+CA,-73.147333,64.982185,-73.147269,64.982212,"Kinngait, Nunavut",-73.147301,64.982199,parrot.turkey.skulls,en,https://w3w.co/parrot.turkey.skulls
+ZZ,-104.123927,17.366537,-104.123898,17.366564,"La Placita de Morelos, Michoac??n",-104.123912,17.366551,rowboat.cannonball.chest,en,https://w3w.co/rowboat.cannonball.chest
+ZZ,147.440621,28.71305,147.440652,28.713077,,147.440637,28.713063,rowboat.cannonball.chickens,en,https://w3w.co/rowboat.cannonball.chickens
+ZZ,-63.61591,33.513556,-63.615877,33.513583,"St George's, Bermuda",-63.615894,33.51357,rowboat.cannonball.diet,en,https://w3w.co/rowboat.cannonball.diet
+ZZ,-30.632899,31.001617,-30.632868,31.001644,,-30.632883,31.001631,rowboat.cannonball.misfits,en,https://w3w.co/rowboat.cannonball.misfits
+ZZ,133.647994,17.373437,133.648023,17.373464,,133.648008,17.37345,rowboat.cannonball.parrot,en,https://w3w.co/rowboat.cannonball.parrot
+ZZ,-144.011848,27.144028,-144.011818,27.144055,,-144.011833,27.144041,rowboat.cannonball.shady,en,https://w3w.co/rowboat.cannonball.shady
+ZZ,-23.186405,18.586109,-23.186377,18.586136,"Espargos, Sal",-23.186391,18.586123,rowboat.cannonball.skulls,en,https://w3w.co/rowboat.cannonball.skulls
+ZZ,-151.366179,21.74399,-151.36615,21.744017,,-151.366165,21.744003,rowboat.cannonball.turkey,en,https://w3w.co/rowboat.cannonball.turkey
+ZZ,-107.9276,19.987818,-107.927571,19.987845,"La Cruz de Loreto, Jalisco",-107.927586,19.987832,rowboat.chest.cannonball,en,https://w3w.co/rowboat.chest.cannonball
+ZZ,-156.17214,19.75919,-156.172111,19.759217,"Kalaoa, Hawaii",-156.172126,19.759204,rowboat.chest.chickens,en,https://w3w.co/rowboat.chest.chickens
+ZZ,132.324293,23.684697,132.324323,23.684724,,132.324308,23.684711,rowboat.chest.diet,en,https://w3w.co/rowboat.chest.diet
+ZZ,178.355544,21.589424,178.355573,21.589451,,178.355558,21.589438,rowboat.chest.misfits,en,https://w3w.co/rowboat.chest.misfits
+ZZ,-121.753347,30.465664,-121.753316,30.465691,,-121.753331,30.465678,rowboat.chest.parrot,en,https://w3w.co/rowboat.chest.parrot
+ZZ,169.243288,18.565168,169.243316,18.565195,,169.243302,18.565182,rowboat.chest.shady,en,https://w3w.co/rowboat.chest.shady
+ZZ,166.055662,32.220003,166.055694,32.22003,,166.055678,32.220017,rowboat.chest.skulls,en,https://w3w.co/rowboat.chest.skulls
+ZZ,-157.491165,36.336217,-157.491131,36.336244,,-157.491148,36.336231,rowboat.chest.turkey,en,https://w3w.co/rowboat.chest.turkey
+ZZ,-41.815406,21.8971,-41.815377,21.897127,,-41.815391,21.897114,rowboat.chickens.cannonball,en,https://w3w.co/rowboat.chickens.cannonball
+ZZ,151.251318,32.993047,151.25135,32.993074,,151.251334,32.99306,rowboat.chickens.chest,en,https://w3w.co/rowboat.chickens.chest
+ZZ,157.170887,25.760646,157.170917,25.760673,,157.170902,25.760659,rowboat.chickens.diet,en,https://w3w.co/rowboat.chickens.diet
+ZZ,-48.863465,23.623706,-48.863436,23.623733,,-48.86345,23.62372,rowboat.chickens.misfits,en,https://w3w.co/rowboat.chickens.misfits
+ZZ,-21.130044,32.958279,-21.130012,32.958306,,-21.130028,32.958293,rowboat.chickens.parrot,en,https://w3w.co/rowboat.chickens.parrot
+ZZ,176.706464,20.391117,176.706493,20.391144,,176.706479,20.39113,rowboat.chickens.shady,en,https://w3w.co/rowboat.chickens.shady
+ZZ,153.251279,34.629285,153.251311,34.629312,,153.251295,34.629299,rowboat.chickens.skulls,en,https://w3w.co/rowboat.chickens.skulls
+ZZ,138.793348,15.782746,138.793376,15.782773,,138.793362,15.782759,rowboat.chickens.turkey,en,https://w3w.co/rowboat.chickens.turkey
+ZZ,-145.183004,31.603547,-145.182972,31.603574,,-145.182988,31.60356,rowboat.diet.cannonball,en,https://w3w.co/rowboat.diet.cannonball
+ZZ,-143.681431,19.320073,-143.681403,19.3201,,-143.681417,19.320087,rowboat.diet.chest,en,https://w3w.co/rowboat.diet.chest
+ZZ,-38.869003,31.374919,-38.868971,31.374946,,-38.868987,31.374933,rowboat.diet.chickens,en,https://w3w.co/rowboat.diet.chickens
+ZZ,-58.284544,33.663486,-58.284512,33.663513,,-58.284528,33.6635,rowboat.diet.misfits,en,https://w3w.co/rowboat.diet.misfits
+ZZ,89.323109,19.326973,89.323138,19.327,,89.323124,19.326986,rowboat.diet.parrot,en,https://w3w.co/rowboat.diet.parrot
+ZZ,-168.320303,29.63923,-168.320272,29.639257,,-168.320287,29.639244,rowboat.diet.shady,en,https://w3w.co/rowboat.diet.shady
+ZZ,69.076826,20.622979,69.076854,20.623006,"Mangrol, Gujarat",69.07684,20.622992,rowboat.diet.skulls,en,https://w3w.co/rowboat.diet.skulls
+ZZ,-127.152748,23.947526,-127.152719,23.947553,,-127.152734,23.947539,rowboat.diet.turkey,en,https://w3w.co/rowboat.diet.turkey
+ZZ,-168.882651,18.565276,-168.882622,18.565303,,-168.882637,18.565289,rowboat.misfits.cannonball,en,https://w3w.co/rowboat.misfits.cannonball
+ZZ,136.113938,28.702889,136.113969,28.702916,,136.113953,28.702903,rowboat.misfits.chest,en,https://w3w.co/rowboat.misfits.chest
+ZZ,147.611954,18.378315,147.611983,18.378342,,147.611969,18.378328,rowboat.misfits.chickens,en,https://w3w.co/rowboat.misfits.chickens
+ZZ,-118.908374,22.095488,-118.908345,22.095515,,-118.90836,22.095502,rowboat.misfits.diet,en,https://w3w.co/rowboat.misfits.diet
+ZZ,-60.832965,28.626455,-60.832934,28.626482,,-60.832949,28.626469,rowboat.misfits.parrot,en,https://w3w.co/rowboat.misfits.parrot
+ZZ,-172.360613,17.142626,-172.360585,17.142653,,-172.360599,17.14264,rowboat.misfits.shady,en,https://w3w.co/rowboat.misfits.shady
+ZZ,-60.433065,30.297461,-60.433033,30.297488,,-60.433049,30.297475,rowboat.misfits.skulls,en,https://w3w.co/rowboat.misfits.skulls
+ZZ,-179.329412,34.413675,-179.329379,34.413702,,-179.329395,34.413689,rowboat.misfits.turkey,en,https://w3w.co/rowboat.misfits.turkey
+ZZ,177.232446,28.912139,177.232477,28.912166,,177.232462,28.912152,rowboat.parrot.cannonball,en,https://w3w.co/rowboat.parrot.cannonball
+ZZ,157.316243,17.295332,157.316271,17.295359,,157.316257,17.295346,rowboat.parrot.chest,en,https://w3w.co/rowboat.parrot.chest
+ZZ,174.442416,28.641845,174.442447,28.641871,,174.442432,28.641858,rowboat.parrot.chickens,en,https://w3w.co/rowboat.parrot.chickens
+ZZ,-16.089826,33.442351,-16.089793,33.442378,"Cani??al, Madeira",-16.089809,33.442365,rowboat.parrot.diet,en,https://w3w.co/rowboat.parrot.diet
+ZZ,159.413713,30.930412,159.413744,30.930439,,159.413729,30.930425,rowboat.parrot.misfits,en,https://w3w.co/rowboat.parrot.misfits
+ZZ,-129.278161,27.072822,-129.278131,27.072849,,-129.278146,27.072836,rowboat.parrot.shady,en,https://w3w.co/rowboat.parrot.shady
+ZZ,-118.292747,18.514904,-118.292719,18.514931,,-118.292733,18.514918,rowboat.parrot.skulls,en,https://w3w.co/rowboat.parrot.skulls
+ZZ,169.495532,21.672785,169.495561,21.672812,,169.495546,21.672798,rowboat.parrot.turkey,en,https://w3w.co/rowboat.parrot.turkey
+ZZ,-127.993846,30.812473,-127.993814,30.8125,,-127.99383,30.812487,rowboat.shady.cannonball,en,https://w3w.co/rowboat.shady.cannonball
+ZZ,-135.737705,18.737333,-135.737676,18.73736,,-135.737691,18.737346,rowboat.shady.chest,en,https://w3w.co/rowboat.shady.chest
+ZZ,135.848579,30.542179,135.84861,30.542206,,135.848594,30.542192,rowboat.shady.chickens,en,https://w3w.co/rowboat.shady.chickens
+ZZ,11.848392,35.426019,11.848425,35.426046,"Lampedusa, Sicily",11.848408,35.426032,rowboat.shady.diet,en,https://w3w.co/rowboat.shady.diet
+ZZ,157.079224,32.914079,157.079257,32.914106,,157.07924,32.914093,rowboat.shady.misfits,en,https://w3w.co/rowboat.shady.misfits
+ZZ,112.229821,18.744232,112.22985,18.744259,"Wancheng, Hainan",112.229835,18.744246,rowboat.shady.parrot,en,https://w3w.co/rowboat.shady.parrot
+ZZ,176.522785,20.040238,176.522813,20.040265,,176.522799,20.040252,rowboat.shady.skulls,en,https://w3w.co/rowboat.shady.skulls
+ZZ,177.065539,23.323119,177.065568,23.323146,,177.065554,23.323132,rowboat.shady.turkey,en,https://w3w.co/rowboat.shady.turkey
+ZZ,-66.001786,35.392788,-66.001753,35.392815,,-66.001769,35.392801,rowboat.skulls.cannonball,en,https://w3w.co/rowboat.skulls.cannonball
+ZZ,-47.558333,22.275981,-47.558304,22.276008,,-47.558319,22.275995,rowboat.skulls.chest,en,https://w3w.co/rowboat.skulls.chest
+ZZ,-167.47409,35.122494,-167.474057,35.12252,,-167.474074,35.122507,rowboat.skulls.chickens,en,https://w3w.co/rowboat.skulls.chickens
+ZZ,83.844728,16.585247,83.844756,16.585274,"Visakhapatnam, Andhra Pradesh",83.844742,16.58526,rowboat.skulls.diet,en,https://w3w.co/rowboat.skulls.diet
+ZZ,-99.439564,14.864974,-99.439536,14.865001,"Santiago Tepextla, Oaxaca",-99.43955,14.864988,rowboat.skulls.misfits,en,https://w3w.co/rowboat.skulls.misfits
+ZZ,-151.58773,22.241214,-151.587701,22.241241,,-151.587715,22.241227,rowboat.skulls.parrot,en,https://w3w.co/rowboat.skulls.parrot
+ZZ,-47.716214,33.428471,-47.716182,33.428498,,-47.716198,33.428485,rowboat.skulls.shady,en,https://w3w.co/rowboat.skulls.shady
+ZZ,-156.671913,27.236767,-156.671883,27.236794,,-156.671898,27.23678,rowboat.skulls.turkey,en,https://w3w.co/rowboat.skulls.turkey
+ZZ,-169.389883,36.481565,-169.38985,36.481592,,-169.389867,36.481579,rowboat.turkey.cannonball,en,https://w3w.co/rowboat.turkey.cannonball
+ZZ,-58.070285,23.156425,-58.070256,23.156452,,-58.07027,23.156439,rowboat.turkey.chest,en,https://w3w.co/rowboat.turkey.chest
+ZZ,28.749131,36.211271,28.749165,36.211298,"Faliraki, South Aegean",28.749148,36.211284,rowboat.turkey.chickens,en,https://w3w.co/rowboat.turkey.chickens
+ZZ,107.59548,17.340691,107.595508,17.340718,"????ng H??, Qu???ng Tr???",107.595494,17.340705,rowboat.turkey.diet,en,https://w3w.co/rowboat.turkey.diet
+ZZ,-146.517014,15.578752,-146.516986,15.578779,,-146.517,15.578765,rowboat.turkey.misfits,en,https://w3w.co/rowboat.turkey.misfits
+ZZ,-159.180096,23.121658,-159.180067,23.121685,"K??lauea, Hawaii",-159.180082,23.121672,rowboat.turkey.parrot,en,https://w3w.co/rowboat.turkey.parrot
+ZZ,-75.26596,34.475582,-75.265928,34.475609,"Buxton, North Carolina",-75.265944,34.475596,rowboat.turkey.shady,en,https://w3w.co/rowboat.turkey.shady
+ZZ,60.431543,24.542664,60.431573,24.542691,"Chabahar, Sistan and Baluchestan",60.431558,24.542677,rowboat.turkey.skulls,en,https://w3w.co/rowboat.turkey.skulls
+ZZ,-141.735923,47.877965,-141.735883,47.877992,,-141.735903,47.877978,shady.cannonball.chest,en,https://w3w.co/shady.cannonball.chest
+ZZ,61.921398,71.016683,61.921481,71.01671,"Amderma, Nenets Autonomous Okrug",61.921439,71.016696,shady.cannonball.chickens,en,https://w3w.co/shady.cannonball.chickens
+ZZ,-66.529889,38.082929,-66.529855,38.082956,,-66.529872,38.082943,shady.cannonball.diet,en,https://w3w.co/shady.cannonball.diet
+ZZ,-169.02163,49.969222,-169.021588,49.969249,,-169.021609,49.969235,shady.cannonball.misfits,en,https://w3w.co/shady.cannonball.misfits
+ZZ,-12.87622,43.154431,-12.876183,43.154458,"Fisterra, Galicia",-12.876202,43.154444,shady.cannonball.parrot,en,https://w3w.co/shady.cannonball.parrot
+ZZ,153.293115,26.645079,153.293145,26.645106,,153.29313,26.645092,shady.cannonball.rowboat,en,https://w3w.co/shady.cannonball.rowboat
+ZZ,13.656603,73.298431,13.656697,73.298458,,13.65665,73.298445,shady.cannonball.skulls,en,https://w3w.co/shady.cannonball.skulls
+ZZ,75.986828,72.497224,75.986918,72.497251,"Dikson, Krasnoyarsk Krai",75.986873,72.497237,shady.cannonball.turkey,en,https://w3w.co/shady.cannonball.turkey
+ZZ,-170.384938,49.563416,-170.384897,49.563443,,-170.384918,49.56343,shady.chest.cannonball,en,https://w3w.co/shady.chest.cannonball
+CN,113.916813,22.807406,113.916842,22.807433,"Humen, Guangdong",113.916827,22.80742,shady.chest.chickens,en,https://w3w.co/shady.chest.chickens
+CN,121.378336,31.069049,121.378367,31.069076,"Songjiang, Shanghai",121.378352,31.069063,shady.chest.diet,en,https://w3w.co/shady.chest.diet
+IT,12.428866,44.101849,12.428904,44.101876,"San Mauro Pascoli, Emilia-Romagna",12.428885,44.101862,shady.chest.misfits,en,https://w3w.co/shady.chest.misfits
+MX,-99.643192,19.231323,-99.643163,19.23135,"San Felipe Tlalmimilolpan, M??xico",-99.643177,19.231336,shady.chest.parrot,en,https://w3w.co/shady.chest.parrot
+ZZ,-55.007891,15.611605,-55.007863,15.611632,,-55.007877,15.611619,shady.chest.rowboat,en,https://w3w.co/shady.chest.rowboat
+CA,-102.854611,50.390254,-102.854569,50.390281,"Melville, Saskatchewan",-102.85459,50.390268,shady.chest.skulls,en,https://w3w.co/shady.chest.skulls
+US,-94.412639,39.052932,-94.412604,39.052959,"Independence, Missouri",-94.412622,39.052946,shady.chest.turkey,en,https://w3w.co/shady.chest.turkey
+ZZ,32.941854,73.285468,32.941948,73.285495,,32.941901,73.285481,shady.chickens.cannonball,en,https://w3w.co/shady.chickens.cannonball
+BY,26.343124,54.483263,26.34317,54.48329,"Smarhon’, Grodno Region",26.343147,54.483277,shady.chickens.chest,en,https://w3w.co/shady.chickens.chest
+IT,7.510685,45.250566,7.510723,45.250593,"Cafasse, Piedmont",7.510704,45.250579,shady.chickens.diet,en,https://w3w.co/shady.chickens.diet
+CN,121.469853,36.854221,121.469887,36.854248,"Dongcun, Shandong",121.46987,36.854234,shady.chickens.misfits,en,https://w3w.co/shady.chickens.misfits
+ZA,30.004995,-27.735096,30.005026,-27.735069,"Newcastle, KwaZulu-Natal",30.00501,-27.735082,shady.chickens.parrot,en,https://w3w.co/shady.chickens.parrot
+ZZ,-40.989553,26.416451,-40.989523,26.416478,,-40.989538,26.416465,shady.chickens.rowboat,en,https://w3w.co/shady.chickens.rowboat
+CA,-108.604755,69.911842,-108.604677,69.911869,"Cambridge Bay, Nunavut",-108.604716,69.911856,shady.chickens.skulls,en,https://w3w.co/shady.chickens.skulls
+CN,119.707049,40.915643,119.707085,40.915669,"Lingyuan, Liaoning",119.707067,40.915656,shady.chickens.turkey,en,https://w3w.co/shady.chickens.turkey
+ZZ,149.568517,39.143381,149.568552,39.143408,,149.568534,39.143394,shady.diet.cannonball,en,https://w3w.co/shady.diet.cannonball
+JP,139.727615,35.272558,139.727648,35.272585,"Yokosuka, Kanagawa",139.727631,35.272572,shady.diet.chest,en,https://w3w.co/shady.diet.chest
+AR,-55.907222,-27.409983,-55.907191,-27.409956,"Posadas, Misiones",-55.907207,-27.409969,shady.diet.chickens,en,https://w3w.co/shady.diet.chickens
+DE,8.662683,48.435182,8.662724,48.435209,"Horb am Neckar, Baden-W??rttemberg",8.662703,48.435196,shady.diet.misfits,en,https://w3w.co/shady.diet.misfits
+MX,-101.401095,26.940141,-101.401064,26.940168,"Monclova, Coahuila",-101.401079,26.940155,shady.diet.parrot,en,https://w3w.co/shady.diet.parrot
+ZZ,-148.729041,31.008624,-148.729009,31.008651,,-148.729025,31.008638,shady.diet.rowboat,en,https://w3w.co/shady.diet.rowboat
+CA,-112.102871,66.062823,-112.102804,66.06285,"Bathurst Lake, Nunavut",-112.102838,66.062837,shady.diet.skulls,en,https://w3w.co/shady.diet.skulls
+JP,139.226086,35.538271,139.22612,35.538298,"Sagamihara, Kanagawa",139.226103,35.538284,shady.diet.turkey,en,https://w3w.co/shady.diet.turkey
+ZZ,-39.204145,51.82134,-39.204101,51.821367,,-39.204123,51.821353,shady.misfits.cannonball,en,https://w3w.co/shady.misfits.cannonball
+CN,116.260496,39.794901,116.260531,39.794928,"Daxing, Beijing",116.260513,39.794914,shady.misfits.chest,en,https://w3w.co/shady.misfits.chest
+CN,124.421765,47.803364,124.421805,47.80339,"Fuyu, Heilongjiang",124.421785,47.803377,shady.misfits.chickens,en,https://w3w.co/shady.misfits.chickens
+MA,-7.536305,33.39834,-7.536273,33.398367,"Zawyat an Nwa??er, Casablanca-Settat",-7.536289,33.398353,shady.misfits.diet,en,https://w3w.co/shady.misfits.diet
+DE,12.290199,51.368208,12.290242,51.368235,"Leipzig, Saxony",12.29022,51.368222,shady.misfits.parrot,en,https://w3w.co/shady.misfits.parrot
+ZZ,-165.260187,28.538352,-165.260156,28.538379,,-165.260171,28.538365,shady.misfits.rowboat,en,https://w3w.co/shady.misfits.rowboat
+CA,-103.459712,64.528892,-103.459649,64.528919,"Dubawnt Lake, Nunavut",-103.45968,64.528905,shady.misfits.skulls,en,https://w3w.co/shady.misfits.skulls
+PH,121.445121,14.268947,121.445149,14.268974,"Maulawin, Calabarzon",121.445135,14.26896,shady.misfits.turkey,en,https://w3w.co/shady.misfits.turkey
+ZZ,-53.838438,44.506549,-53.8384,44.506576,,-53.838419,44.506563,shady.parrot.cannonball,en,https://w3w.co/shady.parrot.cannonball
+CA,-79.639966,43.438767,-79.639929,43.438794,"Oakville, Ontario",-79.639947,43.43878,shady.parrot.chest,en,https://w3w.co/shady.parrot.chest
+FR,0.27201,46.54738,0.27205,46.547407,"Fontaine-le-Comte, Vienne",0.27203,46.547394,shady.parrot.chickens,en,https://w3w.co/shady.parrot.chickens
+DE,10.772882,48.35069,10.772923,48.350717,"Diedorf, Bavaria",10.772902,48.350703,shady.parrot.diet,en,https://w3w.co/shady.parrot.diet
+DO,-69.987506,18.644432,-69.987477,18.644459,"Los Botados, Monte Plata",-69.987491,18.644445,shady.parrot.misfits,en,https://w3w.co/shady.parrot.misfits
+ZZ,162.111932,15.618505,162.11196,15.618532,,162.111946,15.618518,shady.parrot.rowboat,en,https://w3w.co/shady.parrot.rowboat
+CA,-77.866591,44.902113,-77.866553,44.90214,"Bancroft, Ontario",-77.866572,44.902126,shady.parrot.skulls,en,https://w3w.co/shady.parrot.skulls
+NL,4.379737,52.079479,4.379781,52.079506,"Essesteijn, South Holland",4.379759,52.079493,shady.parrot.turkey,en,https://w3w.co/shady.parrot.turkey
+ZZ,155.452763,14.618801,155.452791,14.618828,,155.452777,14.618815,shady.rowboat.cannonball,en,https://w3w.co/shady.rowboat.cannonball
+ZZ,-40.042079,23.631414,-40.042049,23.631441,,-40.042064,23.631428,shady.rowboat.chest,en,https://w3w.co/shady.rowboat.chest
+ZZ,-59.519402,36.852927,-59.519368,36.852954,,-59.519385,36.85294,shady.rowboat.chickens,en,https://w3w.co/shady.rowboat.chickens
+ZZ,-50.001415,17.774014,-50.001387,17.774041,,-50.001401,17.774027,shady.rowboat.diet,en,https://w3w.co/shady.rowboat.diet
+ZZ,-101.368803,15.970408,-101.368775,15.970434,"Nuxco, Guerrero",-101.368789,15.970421,shady.rowboat.misfits,en,https://w3w.co/shady.rowboat.misfits
+ZZ,-139.253619,23.596647,-139.25359,23.596674,,-139.253605,23.596661,shady.rowboat.parrot,en,https://w3w.co/shady.rowboat.parrot
+ZZ,-29.619286,25.05932,-29.619256,25.059347,,-29.619271,25.059333,shady.rowboat.skulls,en,https://w3w.co/shady.rowboat.skulls
+ZZ,-173.244342,28.758867,-173.244311,28.758894,,-173.244327,28.75888,shady.rowboat.turkey,en,https://w3w.co/shady.rowboat.turkey
+ZZ,-159.335476,75.40055,-159.335368,75.400577,,-159.335422,75.400563,shady.skulls.cannonball,en,https://w3w.co/shady.skulls.cannonball
+CA,-88.262504,50.460355,-88.262462,50.460382,"Greenstone, Ontario",-88.262483,50.460368,shady.skulls.chest,en,https://w3w.co/shady.skulls.chest
+CA,-95.438968,70.148609,-95.438889,70.148636,"Gjoa Haven, Nunavut",-95.438929,70.148623,shady.skulls.chickens,en,https://w3w.co/shady.skulls.chickens
+CA,-122.462473,66.17459,-122.462407,66.174617,"D??line, Northwest Territories",-122.46244,66.174604,shady.skulls.diet,en,https://w3w.co/shady.skulls.diet
+CA,-69.810171,64.640659,-69.810108,64.640686,"Iqaluit, Nunavut",-69.81014,64.640672,shady.skulls.misfits,en,https://w3w.co/shady.skulls.misfits
+CA,-77.271867,45.26388,-77.271829,45.263907,"Renfrew, Ontario",-77.271848,45.263893,shady.skulls.parrot,en,https://w3w.co/shady.skulls.parrot
+ZZ,-48.558587,16.789511,-48.558559,16.789538,,-48.558573,16.789524,shady.skulls.rowboat,en,https://w3w.co/shady.skulls.rowboat
+CA,-127.939473,54.037516,-127.939427,54.037543,"Kitimat, British Columbia",-127.93945,54.03753,shady.skulls.turkey,en,https://w3w.co/shady.skulls.turkey
+GL,-32.446776,74.557676,-32.446675,74.557703,Northeast Greenland National Park,-32.446725,74.557689,shady.turkey.cannonball,en,https://w3w.co/shady.turkey.cannonball
+US,-80.80933,35.231862,-80.809297,35.231889,"Charlotte, North Carolina",-80.809314,35.231875,shady.turkey.chest,en,https://w3w.co/shady.turkey.chest
+IR,47.925955,34.489785,47.925988,34.489812,"Kangavar, Kermanshah",47.925971,34.489799,shady.turkey.chickens,en,https://w3w.co/shady.turkey.chickens
+IQ,44.052099,33.376428,44.052132,33.376455,"Ab?? Ghurayb, Baghdad",44.052116,33.376442,shady.turkey.diet,en,https://w3w.co/shady.turkey.diet
+ZA,27.625511,-26.257439,27.625541,-26.257412,"Westonaria, Gauteng",27.625526,-26.257425,shady.turkey.misfits,en,https://w3w.co/shady.turkey.misfits
+BR,-47.376197,-22.586298,-47.376168,-22.586271,"Limeira, S??o Paulo",-47.376183,-22.586284,shady.turkey.parrot,en,https://w3w.co/shady.turkey.parrot
+ZZ,150.311726,19.822391,150.311755,19.822418,,150.311741,19.822405,shady.turkey.rowboat,en,https://w3w.co/shady.turkey.rowboat
+CA,-60.552668,53.967416,-60.552622,53.967443,"Happy Valley-Goose Bay, Newfoundland & Labrador",-60.552645,53.967429,shady.turkey.skulls,en,https://w3w.co/shady.turkey.skulls
+ZZ,-172.772113,42.420063,-172.772076,42.420089,,-172.772094,42.420076,skulls.cannonball.chest,en,https://w3w.co/skulls.cannonball.chest
+ZZ,-150.67349,58.558781,-150.673439,58.558808,"Homer, Alaska",-150.673465,58.558794,skulls.cannonball.chickens,en,https://w3w.co/skulls.cannonball.chickens
+ZZ,119.023499,75.649283,119.023607,75.64931,"Syndassko, Krasnoyarsk Krai",119.023553,75.649297,skulls.cannonball.diet,en,https://w3w.co/skulls.cannonball.diet
+ZZ,-59.000789,44.13632,-59.000751,44.136346,"Sydney, Nova Scotia",-59.00077,44.136333,skulls.cannonball.misfits,en,https://w3w.co/skulls.cannonball.misfits
+ZZ,-136.233693,38.696529,-136.233658,38.696556,,-136.233675,38.696542,skulls.cannonball.parrot,en,https://w3w.co/skulls.cannonball.parrot
+ZZ,-55.039885,17.653892,-55.039856,17.653919,,-55.03987,17.653905,skulls.cannonball.rowboat,en,https://w3w.co/skulls.cannonball.rowboat
+ZZ,174.415311,48.994179,174.415352,48.994205,,174.415331,48.994192,skulls.cannonball.shady,en,https://w3w.co/skulls.cannonball.shady
+ZZ,-54.345876,59.955989,-54.345823,59.956016,,-54.345849,59.956002,skulls.cannonball.turkey,en,https://w3w.co/skulls.cannonball.turkey
+ZZ,78.56903,82.53342,78.569237,82.533447,,78.569133,82.533433,skulls.chest.cannonball,en,https://w3w.co/skulls.chest.cannonball
+AU,120.808271,-30.655644,120.808302,-30.655617,"Kalgoorlie, Western Australia",120.808286,-30.65563,skulls.chest.chickens,en,https://w3w.co/skulls.chest.chickens
+AU,138.651858,-33.837996,138.65189,-33.837969,"Clare, South Australia",138.651874,-33.837982,skulls.chest.diet,en,https://w3w.co/skulls.chest.diet
+AU,140.934407,-37.913594,140.934441,-37.913567,"Worrolong, South Australia",140.934424,-37.913581,skulls.chest.misfits,en,https://w3w.co/skulls.chest.misfits
+CA,-105.816198,54.04296,-105.816152,54.042987,"Prince Albert, Saskatchewan",-105.816175,54.042974,skulls.chest.parrot,en,https://w3w.co/skulls.chest.parrot
+ZZ,-173.379255,27.499838,-173.379224,27.499865,,-173.37924,27.499852,skulls.chest.rowboat,en,https://w3w.co/skulls.chest.rowboat
+CA,-68.173855,67.251078,-68.173786,67.251105,"Pangnirtung, Nunavut",-68.17382,67.251092,skulls.chest.shady,en,https://w3w.co/skulls.chest.shady
+CA,-99.657148,63.233263,-99.657088,63.23329,"Dubawnt Lake, Nunavut",-99.657118,63.233277,skulls.chest.turkey,en,https://w3w.co/skulls.chest.turkey
+ZZ,149.173481,48.939548,149.173522,48.939575,,149.173502,48.939562,skulls.chickens.cannonball,en,https://w3w.co/skulls.chickens.cannonball
+CA,-115.555213,52.883975,-115.555168,52.884002,"Drayton Valley, Alberta",-115.55519,52.883988,skulls.chickens.chest,en,https://w3w.co/skulls.chickens.chest
+CA,-109.867983,71.84821,-109.867897,71.848237,"Cambridge Bay, Nunavut",-109.86794,71.848224,skulls.chickens.diet,en,https://w3w.co/skulls.chickens.diet
+CA,-130.200941,68.814279,-130.200866,68.814306,"Inuvik, Northwest Territories",-130.200904,68.814292,skulls.chickens.misfits,en,https://w3w.co/skulls.chickens.misfits
+CA,-123.204423,50.104167,-123.204381,50.104194,"Whistler, British Columbia",-123.204402,50.10418,skulls.chickens.parrot,en,https://w3w.co/skulls.chickens.parrot
+ZZ,177.022218,17.466931,177.022247,17.466958,,177.022233,17.466944,skulls.chickens.rowboat,en,https://w3w.co/skulls.chickens.rowboat
+CA,-119.185087,60.895618,-119.185031,60.895645,"Fort Simpson, Northwest Territories",-119.185059,60.895631,skulls.chickens.shady,en,https://w3w.co/skulls.chickens.shady
+CA,-110.415975,56.91947,-110.415925,56.919497,"Fort McMurray, Alberta",-110.41595,56.919483,skulls.chickens.turkey,en,https://w3w.co/skulls.chickens.turkey
+ZZ,-86.046429,60.113384,-86.046374,60.113411,,-86.046402,60.113397,skulls.diet.cannonball,en,https://w3w.co/skulls.diet.cannonball
+CA,-123.912976,51.078779,-123.912933,51.078806,"Hanceville, British Columbia",-123.912955,51.078792,skulls.diet.chest,en,https://w3w.co/skulls.diet.chest
+CA,-110.155093,72.350367,-110.155004,72.350393,"Cambridge Bay, Nunavut",-110.155048,72.35038,skulls.diet.chickens,en,https://w3w.co/skulls.diet.chickens
+CA,-120.826878,65.550749,-120.826813,65.550776,"D??line, Northwest Territories",-120.826845,65.550763,skulls.diet.misfits,en,https://w3w.co/skulls.diet.misfits
+CA,-67.421641,47.340637,-67.421601,47.340664,"Harrison Brook, New Brunswick",-67.421621,47.340651,skulls.diet.parrot,en,https://w3w.co/skulls.diet.parrot
+ZZ,-54.778751,21.100771,-54.778722,21.100798,,-54.778736,21.100784,skulls.diet.rowboat,en,https://w3w.co/skulls.diet.rowboat
+CA,-95.826559,58.007088,-95.826508,58.007115,"Churchill, Manitoba",-95.826533,58.007102,skulls.diet.shady,en,https://w3w.co/skulls.diet.shady
+CA,-96.105263,54.697607,-96.105216,54.697634,"St Theresa Point, Manitoba",-96.10524,54.69762,skulls.diet.turkey,en,https://w3w.co/skulls.diet.turkey
+ZZ,-65.657088,37.97542,-65.657054,37.975447,,-65.657071,37.975434,skulls.misfits.cannonball,en,https://w3w.co/skulls.misfits.cannonball
+CA,-68.672479,50.86077,-68.672436,50.860797,"Port-Cartier, Quebec",-68.672457,50.860783,skulls.misfits.chest,en,https://w3w.co/skulls.misfits.chest
+CA,-107.674474,71.465691,-107.674389,71.465718,"Cambridge Bay, Nunavut",-107.674431,71.465705,skulls.misfits.chickens,en,https://w3w.co/skulls.misfits.chickens
+CA,-96.883566,66.825005,-96.883498,66.825032,"Garry Lake, Nunavut",-96.883532,66.825019,skulls.misfits.diet,en,https://w3w.co/skulls.misfits.diet
+CA,-80.082941,46.580962,-80.082902,46.580989,"North Bay, Ontario",-80.082921,46.580975,skulls.misfits.parrot,en,https://w3w.co/skulls.misfits.parrot
+ZZ,68.937728,19.172165,68.937757,19.172192,"Veraval, Gujarat",68.937743,19.172178,skulls.misfits.rowboat,en,https://w3w.co/skulls.misfits.rowboat
+CA,-119.902005,57.664079,-119.901955,57.664106,"Manning, Alberta",-119.90198,57.664093,skulls.misfits.shady,en,https://w3w.co/skulls.misfits.shady
+CA,-84.232712,54.437931,-84.232666,54.437958,"Peawanuck, Ontario",-84.232689,54.437945,skulls.misfits.turkey,en,https://w3w.co/skulls.misfits.turkey
+ZZ,-58.888824,73.893219,-58.888727,73.893246,"Kullorsuaq, Avannaata",-58.888775,73.893233,skulls.parrot.cannonball,en,https://w3w.co/skulls.parrot.cannonball
+CA,-70.512978,53.698793,-70.512933,53.69882,"Fermont, Quebec",-70.512955,53.698806,skulls.parrot.chest,en,https://w3w.co/skulls.parrot.chest
+AU,146.759346,-43.612953,146.759383,-43.612926,"Geeveston, Tasmania",146.759365,-43.612939,skulls.parrot.chickens,en,https://w3w.co/skulls.parrot.chickens
+CA,-80.003539,76.329695,-80.003425,76.329722,"Grise Ford, Nunavut",-80.003482,76.329708,skulls.parrot.diet,en,https://w3w.co/skulls.parrot.diet
+CA,-118.401839,70.96243,-118.401756,70.962457,"Ulukhaktok, Northwest Territories",-118.401798,70.962443,skulls.parrot.misfits,en,https://w3w.co/skulls.parrot.misfits
+ZZ,34.276744,27.465071,34.276775,27.465098,"Sharm el-Sheikh, Ganoub Sina",34.27676,27.465085,skulls.parrot.rowboat,en,https://w3w.co/skulls.parrot.rowboat
+CA,-117.525312,62.168769,-117.525254,62.168796,"Behchok????, Northwest Territories",-117.525283,62.168782,skulls.parrot.shady,en,https://w3w.co/skulls.parrot.shady
+CA,-110.956449,58.025954,-110.956398,58.025981,"Fort McMurray, Alberta",-110.956423,58.025968,skulls.parrot.turkey,en,https://w3w.co/skulls.parrot.turkey
+ZZ,161.395211,17.782449,161.395239,17.782476,,161.395225,17.782463,skulls.rowboat.cannonball,en,https://w3w.co/skulls.rowboat.cannonball
+ZZ,141.504991,27.628396,141.505022,27.628423,,141.505007,27.628409,skulls.rowboat.chest,en,https://w3w.co/skulls.rowboat.chest
+ZZ,-43.056574,17.553822,-43.056546,17.553849,,-43.05656,17.553835,skulls.rowboat.chickens,en,https://w3w.co/skulls.rowboat.chickens
+ZZ,113.611063,21.229328,113.611092,21.229355,Macau,113.611077,21.229342,skulls.rowboat.diet,en,https://w3w.co/skulls.rowboat.diet
+ZZ,-167.844128,19.259056,-167.8441,19.259083,,-167.844114,19.259069,skulls.rowboat.misfits,en,https://w3w.co/skulls.rowboat.misfits
+ZZ,-57.957908,27.593629,-57.957877,27.593656,,-57.957892,27.593642,skulls.rowboat.parrot,en,https://w3w.co/skulls.rowboat.parrot
+ZZ,130.933243,16.401466,130.933272,16.401493,,130.933257,16.40148,skulls.rowboat.shady,en,https://w3w.co/skulls.rowboat.shady
+ZZ,-65.233088,33.297515,-65.233056,33.297542,"St George's, Bermuda",-65.233072,33.297529,skulls.rowboat.turkey,en,https://w3w.co/skulls.rowboat.turkey
+ZZ,-54.943689,41.499946,-54.943653,41.499973,,-54.943671,41.49996,skulls.shady.cannonball,en,https://w3w.co/skulls.shady.cannonball
+CA,-72.928013,55.058808,-72.927966,55.058835,"Sakami, Quebec",-72.92799,55.058821,skulls.shady.chest,en,https://w3w.co/skulls.shady.chest
+AU,147.254176,-33.627938,147.254209,-33.627911,"West Wyalong, New South Wales",147.254193,-33.627924,skulls.shady.chickens,en,https://w3w.co/skulls.shady.chickens
+SE,16.953117,63.93971,16.953179,63.939737,"??sele, V??sterbotten",16.953148,63.939723,skulls.shady.diet,en,https://w3w.co/skulls.shady.diet
+CA,-86.508596,79.322445,-86.50845,79.322472,"Eureka, Nunavut",-86.508523,79.322458,skulls.shady.misfits,en,https://w3w.co/skulls.shady.misfits
+CA,-119.604958,52.154,-119.604914,52.154027,"Jasper Park Lodge, Alberta",-119.604936,52.154013,skulls.shady.parrot,en,https://w3w.co/skulls.shady.parrot
+ZZ,-116.571457,16.272909,-116.571429,16.272936,,-116.571443,16.272922,skulls.shady.rowboat,en,https://w3w.co/skulls.shady.rowboat
+CA,-136.666883,60.052636,-136.666829,60.052663,"Haines Junction, Yukon",-136.666856,60.052649,skulls.shady.turkey,en,https://w3w.co/skulls.shady.turkey
+ZZ,-161.917254,49.961756,-161.917212,49.961783,,-161.917233,49.96177,skulls.turkey.cannonball,en,https://w3w.co/skulls.turkey.cannonball
+CA,-96.094172,52.616349,-96.094128,52.616376,"St Theresa Point, Manitoba",-96.09415,52.616362,skulls.turkey.chest,en,https://w3w.co/skulls.turkey.chest
+SE,12.613081,58.012937,12.613132,58.012964,"Jonstorp, V??stra G??taland",12.613106,58.01295,skulls.turkey.chickens,en,https://w3w.co/skulls.turkey.chickens
+CA,-111.260806,70.788918,-111.260724,70.788945,"Cambridge Bay, Nunavut",-111.260765,70.788931,skulls.turkey.diet,en,https://w3w.co/skulls.turkey.diet
+CA,-131.963623,68.129986,-131.963551,68.130013,"Inuvik, Northwest Territories",-131.963587,68.129999,skulls.turkey.misfits,en,https://w3w.co/skulls.turkey.misfits
+CA,-78.9193,49.794874,-78.919258,49.794901,"Matagami, Quebec",-78.919279,49.794887,skulls.turkey.parrot,en,https://w3w.co/skulls.turkey.parrot
+ZZ,134.880124,33.168958,134.880156,33.168984,"Muroto-misakicho, Kochi",134.88014,33.168971,skulls.turkey.rowboat,en,https://w3w.co/skulls.turkey.rowboat
+CA,-96.439742,60.419658,-96.439687,60.419685,"Arviat, Nunavut",-96.439715,60.419672,skulls.turkey.shady,en,https://w3w.co/skulls.turkey.shady
+ZZ,-25.366288,57.182352,-25.366239,57.182379,,-25.366263,57.182366,turkey.cannonball.chest,en,https://w3w.co/turkey.cannonball.chest
+ZZ,-169.956776,37.171814,-169.956742,37.171841,,-169.956759,37.171828,turkey.cannonball.chickens,en,https://w3w.co/turkey.cannonball.chickens
+ZZ,-23.510173,44.09565,-23.510135,44.095677,,-23.510154,44.095664,turkey.cannonball.diet,en,https://w3w.co/turkey.cannonball.diet
+ZZ,-7.554701,59.690276,-7.554647,59.690303,"Carloway, Na h-Eileanan Siar",-7.554674,59.690289,turkey.cannonball.misfits,en,https://w3w.co/turkey.cannonball.misfits
+ZZ,-135.024752,50.958818,-135.024709,50.958845,,-135.02473,50.958832,turkey.cannonball.parrot,en,https://w3w.co/turkey.cannonball.parrot
+ZZ,131.2364,15.501455,131.236428,15.501482,,131.236414,15.501469,turkey.cannonball.rowboat,en,https://w3w.co/turkey.cannonball.rowboat
+GL,-35.069581,70.756468,-35.069499,70.756495,,-35.06954,70.756482,turkey.cannonball.shady,en,https://w3w.co/turkey.cannonball.shady
+ZZ,-125.385442,38.286896,-125.385408,38.286923,"Sea Ranch, California",-125.385425,38.28691,turkey.cannonball.skulls,en,https://w3w.co/turkey.cannonball.skulls
+ZZ,-26.542397,48.364327,-26.542356,48.364354,,-26.542377,48.364341,turkey.chest.cannonball,en,https://w3w.co/turkey.chest.cannonball
+GR,23.19607,38.293392,23.196105,38.293418,"V??gia, Central Greece",23.196088,38.293405,turkey.chest.chickens,en,https://w3w.co/turkey.chest.chickens
+RS,19.083874,45.781964,19.083913,45.781991,"Sombor, Vojvodina",19.083894,45.781978,turkey.chest.diet,en,https://w3w.co/turkey.chest.diet
+DE,8.655128,50.035953,8.65517,50.03598,"Frankfurt, Hesse",8.655149,50.035966,turkey.chest.misfits,en,https://w3w.co/turkey.chest.misfits
+TW,120.523755,22.681166,120.523784,22.681193,"Kaohsiung, Takao",120.52377,22.68118,turkey.chest.parrot,en,https://w3w.co/turkey.chest.parrot
+ZZ,-154.787568,24.764069,-154.787539,24.764096,,-154.787553,24.764082,turkey.chest.rowboat,en,https://w3w.co/turkey.chest.rowboat
+US,-84.867319,35.110231,-84.867286,35.110258,"Wildwood Lake, Tennessee",-84.867303,35.110244,turkey.chest.shady,en,https://w3w.co/turkey.chest.shady
+CA,-103.640036,50.59061,-103.639993,50.590637,"Indian Head, Saskatchewan",-103.640014,50.590624,turkey.chest.skulls,en,https://w3w.co/turkey.chest.skulls
+ZZ,43.831447,71.628045,43.831533,71.628072,"Belushya Guba, Arkhangelsk Oblast",43.83149,71.628059,turkey.chickens.cannonball,en,https://w3w.co/turkey.chickens.cannonball
+IR,52.858474,36.440492,52.858508,36.440519,"Babol, Mazandaran",52.858491,36.440505,turkey.chickens.chest,en,https://w3w.co/turkey.chickens.chest
+KR,127.152256,35.880148,127.15229,35.880175,"Wanju-gun, Jeollabuk-do",127.152273,35.880161,turkey.chickens.diet,en,https://w3w.co/turkey.chickens.diet
+CN,114.555316,38.186449,114.55535,38.186476,"Shijiazhuang, Hebei",114.555333,38.186462,turkey.chickens.misfits,en,https://w3w.co/turkey.chickens.misfits
+LR,-10.618435,6.430466,-10.618408,6.430493,"Bensonville, Montserrado",-10.618422,6.430479,turkey.chickens.parrot,en,https://w3w.co/turkey.chickens.parrot
+ZZ,-147.890063,15.314494,-147.890035,15.314521,,-147.890049,15.314508,turkey.chickens.rowboat,en,https://w3w.co/turkey.chickens.rowboat
+BR,-50.073025,-21.390039,-50.072996,-21.390012,"Pen??polis, S??o Paulo",-50.073011,-21.390025,turkey.chickens.shady,en,https://w3w.co/turkey.chickens.shady
+CA,-75.898356,70.653865,-75.898275,70.653892,"Pond Inlet, Nunavut",-75.898315,70.653878,turkey.chickens.skulls,en,https://w3w.co/turkey.chickens.skulls
+ZZ,-25.512583,38.360958,-25.512548,38.360985,"Mosteiros, Azores",-25.512565,38.360972,turkey.diet.cannonball,en,https://w3w.co/turkey.diet.cannonball
+RU,40.3343,56.123383,40.334348,56.12341,"Vladimir, Vladimir Oblast",40.334324,56.123396,turkey.diet.chest,en,https://w3w.co/turkey.diet.chest
+JP,135.626772,34.721566,135.626804,34.721593,"Dait??ch??, Osaka",135.626788,34.72158,turkey.diet.chickens,en,https://w3w.co/turkey.diet.chickens
+KZ,69.624198,42.327674,69.624234,42.327701,Shymkent,69.624216,42.327687,turkey.diet.misfits,en,https://w3w.co/turkey.diet.misfits
+CA,-66.064108,45.280024,-66.06407,45.280051,"Saint John, New Brunswick",-66.064089,45.280037,turkey.diet.parrot,en,https://w3w.co/turkey.diet.parrot
+ZZ,-162.950017,18.781668,-162.949989,18.781695,,-162.950003,18.781681,turkey.diet.rowboat,en,https://w3w.co/turkey.diet.rowboat
+FR,5.015388,43.501186,5.015425,43.501213,"Istres, Bouches-du-Rh??ne",5.015407,43.501199,turkey.diet.shady,en,https://w3w.co/turkey.diet.shady
+CA,-93.775688,66.429846,-93.77562,66.429873,"Baker Lake, Nunavut",-93.775654,66.429859,turkey.diet.skulls,en,https://w3w.co/turkey.diet.skulls
+ZZ,173.984825,50.497251,173.984868,50.497278,,173.984847,50.497264,turkey.misfits.cannonball,en,https://w3w.co/turkey.misfits.cannonball
+CN,121.849314,38.950248,121.849348,38.950275,"Dalianwan, Liaoning",121.849331,38.950261,turkey.misfits.chest,en,https://w3w.co/turkey.misfits.chest
+PL,16.90625,52.372682,16.906294,52.372709,"Lubo??, Greater Poland",16.906272,52.372696,turkey.misfits.chickens,en,https://w3w.co/turkey.misfits.chickens
+CN,119.250948,39.819588,119.250983,39.819615,"Changli, Hebei",119.250965,39.819602,turkey.misfits.diet,en,https://w3w.co/turkey.misfits.diet
+SL,-11.341873,7.523555,-11.341846,7.523582,"Gorahun, Eastern Province",-11.34186,7.523569,turkey.misfits.parrot,en,https://w3w.co/turkey.misfits.parrot
+ZZ,-39.815545,16.936395,-39.815516,16.936422,,-39.815531,16.936408,turkey.misfits.rowboat,en,https://w3w.co/turkey.misfits.rowboat
+MX,-92.246532,15.369718,-92.246504,15.369745,"Motozintla, Chiapas",-92.246518,15.369731,turkey.misfits.shady,en,https://w3w.co/turkey.misfits.shady
+CA,-127.076294,64.812581,-127.07623,64.812608,"Norman Wells, Northwest Territories",-127.076262,64.812594,turkey.misfits.skulls,en,https://w3w.co/turkey.misfits.skulls
+ZZ,139.395703,43.515793,139.39574,43.51582,"Iwanai, Hokkaido",139.395722,43.515807,turkey.parrot.cannonball,en,https://w3w.co/turkey.parrot.cannonball
+BR,-42.889152,-22.806813,-42.889123,-22.806786,"Itabora??, Rio de Janeiro",-42.889137,-22.8068,turkey.parrot.chest,en,https://w3w.co/turkey.parrot.chest
+PE,-78.451479,-5.789025,-78.451452,-5.788998,"Bagua Grande, Amazonas",-78.451466,-5.789012,turkey.parrot.chickens,en,https://w3w.co/turkey.parrot.chickens
+ES,-8.565518,42.896938,-8.565481,42.896965,"Santiago de Compostela, Galicia",-8.5655,42.896952,turkey.parrot.diet,en,https://w3w.co/turkey.parrot.diet
+MX,-101.222529,20.578536,-101.222501,20.578563,"Salamanca, Guanajuato",-101.222515,20.578549,turkey.parrot.misfits,en,https://w3w.co/turkey.parrot.misfits
+ZZ,64.644126,24.770968,64.644155,24.770995,"Ormara, Balochistan",64.644141,24.770982,turkey.parrot.rowboat,en,https://w3w.co/turkey.parrot.rowboat
+NO,6.229225,62.487656,6.229283,62.487683,"??lesund, M??re og Romsdal",6.229254,62.48767,turkey.parrot.shady,en,https://w3w.co/turkey.parrot.shady
+CA,-71.723035,45.810802,-71.722996,45.810829,"Asbestos, Quebec",-71.723015,45.810816,turkey.parrot.skulls,en,https://w3w.co/turkey.parrot.skulls
+ZZ,-177.532338,18.537893,-177.532309,18.53792,,-177.532324,18.537907,turkey.rowboat.cannonball,en,https://w3w.co/turkey.rowboat.cannonball
+ZZ,179.918603,28.63384,179.918633,28.633867,,179.918618,28.633853,turkey.rowboat.chest,en,https://w3w.co/turkey.rowboat.chest
+ZZ,143.082368,18.350933,143.082396,18.350959,,143.082382,18.350946,turkey.rowboat.chickens,en,https://w3w.co/turkey.rowboat.chickens
+ZZ,-97.130267,22.068106,-97.130237,22.068133,"Tampico Alto, Veracruz",-97.130252,22.068119,turkey.rowboat.diet,en,https://w3w.co/turkey.rowboat.diet
+ZZ,177.530812,20.097833,177.530841,20.09786,,177.530826,20.097847,turkey.rowboat.misfits,en,https://w3w.co/turkey.rowboat.misfits
+ZZ,-16.966931,28.599073,-16.9669,28.5991,"Buenavista del Norte, Canary Islands",-16.966915,28.599086,turkey.rowboat.parrot,en,https://w3w.co/turkey.rowboat.parrot
+ZZ,166.674114,17.15691,166.674142,17.156937,,166.674128,17.156924,turkey.rowboat.shady,en,https://w3w.co/turkey.rowboat.shady
+ZZ,132.382959,30.270079,132.38299,30.270106,"Nishinoomote, Kagoshima",132.382974,30.270092,turkey.rowboat.skulls,en,https://w3w.co/turkey.rowboat.skulls
+ZZ,-35.641491,56.438443,-35.641442,56.43847,,-35.641467,56.438457,turkey.shady.cannonball,en,https://w3w.co/turkey.shady.cannonball
+US,-97.343027,37.566408,-97.342993,37.566435,"Haysville, Kansas",-97.34301,37.566421,turkey.shady.chest,en,https://w3w.co/turkey.shady.chest
+US,-84.61612,34.004528,-84.616088,34.004555,"Kennesaw, Georgia",-84.616104,34.004541,turkey.shady.chickens,en,https://w3w.co/turkey.shady.chickens
+BR,-61.375963,-11.5069,-61.375936,-11.506873,"Cacoal, Rond??nia",-61.375949,-11.506886,turkey.shady.diet,en,https://w3w.co/turkey.shady.diet
+CG,15.177374,-4.241969,15.177401,-4.241942,Brazzaville,15.177388,-4.241955,turkey.shady.misfits,en,https://w3w.co/turkey.shady.misfits
+CA,-73.72392,45.642303,-73.723881,45.64233,"Laval, Quebec",-73.7239,45.642316,turkey.shady.parrot,en,https://w3w.co/turkey.shady.parrot
+ZZ,-57.032709,36.541559,-57.032676,36.541586,,-57.032693,36.541572,turkey.shady.rowboat,en,https://w3w.co/turkey.shady.rowboat
+CA,-109.378697,57.310586,-109.378647,57.310613,"Fort McMurray, Alberta",-109.378672,57.3106,turkey.shady.skulls,en,https://w3w.co/turkey.shady.skulls
+ZZ,147.703563,73.909794,147.70366,73.909821,"New Siberian Islands, Republic of Sakha (Yakutia)",147.703612,73.909808,turkey.skulls.cannonball,en,https://w3w.co/turkey.skulls.cannonball
+CA,-82.004293,46.767896,-82.004253,46.767923,"Espanola, Ontario",-82.004273,46.767909,turkey.skulls.chest,en,https://w3w.co/turkey.skulls.chest
+CA,-134.857227,65.539484,-134.857161,65.539511,"Fort McPherson, Northwest Territories",-134.857194,65.539497,turkey.skulls.chickens,en,https://w3w.co/turkey.skulls.chickens
+CA,-110.541842,62.482131,-110.541783,62.482158,"Artillery Lake, Northwest Territories",-110.541813,62.482145,turkey.skulls.diet,en,https://w3w.co/turkey.skulls.diet
+CA,-75.214697,60.8232,-75.214641,60.823227,"Puvirnituq, Quebec",-75.214669,60.823213,turkey.skulls.misfits,en,https://w3w.co/turkey.skulls.misfits
+AU,141.725428,-32.487495,141.72546,-32.487468,"Broken Hill, New South Wales",141.725444,-32.487481,turkey.skulls.parrot,en,https://w3w.co/turkey.skulls.parrot
+ZZ,178.88002,26.275307,178.880051,26.275334,,178.880035,26.275321,turkey.skulls.rowboat,en,https://w3w.co/turkey.skulls.rowboat
+CA,-79.351718,54.279539,-79.351672,54.279566,"Chisasibi, Quebec",-79.351695,54.279552,turkey.skulls.shady,en,https://w3w.co/turkey.skulls.shady
