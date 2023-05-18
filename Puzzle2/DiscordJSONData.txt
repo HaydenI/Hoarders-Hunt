@@ -1,5 +1,4 @@
-﻿Used this list https://discord.com/channels/423075122610700288/1100756205812600872/1108878972206448690
-{
+﻿{
     "data": [
         {
             "country": "ZZ",
